@@ -1,8 +1,9 @@
 name: flutter_boxicons
-description: Boxicons (https://boxicons/) for Flutter.
+description: Boxicons (https://boxicons) for Flutter.
 version: 1.0.0
-author: Ahmad Rifa'i <arifai209@gmail.com>
-homepage: https://arifai.github.io/
+# author: Ahmad Rifa'i <arifai209@gmail.com>
+homepage: https://arifai.github.io
+repository: https://github.com/arifai/flutter_boxicons
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
