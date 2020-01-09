@@ -1,6 +1,6 @@
 name: flutter_boxicons
-description: Boxicons (https://boxicons) for Flutter.
-version: 1.0.0
+description: Boxicons (https://boxicons.com) customization for Flutter. You can use 2K+ more Boxicons.
+version: 1.1.0
 homepage: https://arifai.github.io
 repository: https://github.com/arifai/flutter_boxicons
 
@@ -47,7 +47,7 @@ flutter:
   fonts:
     - family: Boxicons
       fonts:
-        - asset: assets/fonts/boxicons.ttf
+        - asset: fonts/Boxicons.ttf
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf

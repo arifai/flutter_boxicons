@@ -1,6 +1,6 @@
 # Flutter Boxicons
 
-[Boxicons](https://boxicons.com/) for Flutter
+[Boxicons](https://boxicons.com) customization for Flutter. You can use 2K+ more Boxicons.
 
 ## Instalation
 
@@ -11,6 +11,8 @@ flutter_boxicons: <latest_version>
 ```
 
 ## Usage
+
+You can use it very easily. For example: 
 
 ```dart
 import 'package:flutter/material.dart';
@@ -29,6 +31,12 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
+
+## Info
+
+Boxicons version: 2.0.4
+
+Thank you very much [Boxicons](https://boxicons.com)
 
 ## License
 

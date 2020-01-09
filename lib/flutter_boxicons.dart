@@ -1,4 +1,4 @@
-library fluter_boxicons;
+library flutter_boxicons;
 
 import 'package:flutter/widgets.dart';
 
@@ -29,8 +29,512 @@ class Boxicons {
 
   static const _fontFam = 'Boxicons';
 
-  static const IconData music_video =
+  static const IconData bxl_adobe_1 =
       const IconData(0xe800, fontFamily: _fontFam);
+  static const IconData bxl_airbnb_1 =
+      const IconData(0xe801, fontFamily: _fontFam);
+  static const IconData bxl_algolia_1 =
+      const IconData(0xe802, fontFamily: _fontFam);
+  static const IconData bxl_amazon_1 =
+      const IconData(0xe803, fontFamily: _fontFam);
+  static const IconData bxl_android_1 =
+      const IconData(0xe804, fontFamily: _fontFam);
+  static const IconData bxl_angular_1 =
+      const IconData(0xe805, fontFamily: _fontFam);
+  static const IconData bxl_apple_1 =
+      const IconData(0xe806, fontFamily: _fontFam);
+  static const IconData bxl_audible_1 =
+      const IconData(0xe807, fontFamily: _fontFam);
+  static const IconData bxl_baidu_1 =
+      const IconData(0xe808, fontFamily: _fontFam);
+  static const IconData bxl_behance_1 =
+      const IconData(0xe809, fontFamily: _fontFam);
+  static const IconData bxl_bing_1 =
+      const IconData(0xe80a, fontFamily: _fontFam);
+  static const IconData bxl_bitcoin_1 =
+      const IconData(0xe80b, fontFamily: _fontFam);
+  static const IconData bxl_blogger_1 =
+      const IconData(0xe80c, fontFamily: _fontFam);
+  static const IconData bxl_bootstrap_1 =
+      const IconData(0xe80d, fontFamily: _fontFam);
+  static const IconData bxl_chrome_1 =
+      const IconData(0xe80e, fontFamily: _fontFam);
+  static const IconData bxl_codepen_1 =
+      const IconData(0xe80f, fontFamily: _fontFam);
+  static const IconData bxl_creative_commons_1 =
+      const IconData(0xe810, fontFamily: _fontFam);
+  static const IconData bxl_css3_1 =
+      const IconData(0xe811, fontFamily: _fontFam);
+  static const IconData bxl_dailymotion_1 =
+      const IconData(0xe812, fontFamily: _fontFam);
+  static const IconData bxl_deviantart_1 =
+      const IconData(0xe813, fontFamily: _fontFam);
+  static const IconData bxl_digg_1 =
+      const IconData(0xe814, fontFamily: _fontFam);
+  static const IconData bxl_digitalocean_1 =
+      const IconData(0xe815, fontFamily: _fontFam);
+  static const IconData bxl_discord_1 =
+      const IconData(0xe816, fontFamily: _fontFam);
+  static const IconData bxl_discourse_1 =
+      const IconData(0xe817, fontFamily: _fontFam);
+  static const IconData bxl_dribbble_1 =
+      const IconData(0xe818, fontFamily: _fontFam);
+  static const IconData bxl_dropbox_1 =
+      const IconData(0xe819, fontFamily: _fontFam);
+  static const IconData bxl_drupal_1 =
+      const IconData(0xe81a, fontFamily: _fontFam);
+  static const IconData bxl_ebay_1 =
+      const IconData(0xe81b, fontFamily: _fontFam);
+  static const IconData bxl_edge_1 =
+      const IconData(0xe81c, fontFamily: _fontFam);
+  static const IconData bxl_etsy_1 =
+      const IconData(0xe81d, fontFamily: _fontFam);
+  static const IconData bxl_facebook_1 =
+      const IconData(0xe81e, fontFamily: _fontFam);
+  static const IconData bxl_facebook_circle_1 =
+      const IconData(0xe81f, fontFamily: _fontFam);
+  static const IconData bxl_facebook_square_1 =
+      const IconData(0xe820, fontFamily: _fontFam);
+  static const IconData bxl_figma_1 =
+      const IconData(0xe821, fontFamily: _fontFam);
+  static const IconData bxl_firefox_1 =
+      const IconData(0xe822, fontFamily: _fontFam);
+  static const IconData bxl_flickr_1 =
+      const IconData(0xe823, fontFamily: _fontFam);
+  static const IconData bxl_flickr_square_1 =
+      const IconData(0xe824, fontFamily: _fontFam);
+  static const IconData bxl_foursquare_1 =
+      const IconData(0xe825, fontFamily: _fontFam);
+  static const IconData bxl_git_1 =
+      const IconData(0xe826, fontFamily: _fontFam);
+  static const IconData bxl_github_1 =
+      const IconData(0xe827, fontFamily: _fontFam);
+  static const IconData bxl_gitlab_1 =
+      const IconData(0xe828, fontFamily: _fontFam);
+  static const IconData bxl_google_1 =
+      const IconData(0xe829, fontFamily: _fontFam);
+  static const IconData bxl_google_plus_1 =
+      const IconData(0xe82a, fontFamily: _fontFam);
+  static const IconData bxl_google_plus_circle_1 =
+      const IconData(0xe82b, fontFamily: _fontFam);
+  static const IconData bxl_html5_1 =
+      const IconData(0xe82c, fontFamily: _fontFam);
+  static const IconData bxl_imdb_1 =
+      const IconData(0xe82d, fontFamily: _fontFam);
+  static const IconData bxl_instagram_1 =
+      const IconData(0xe82e, fontFamily: _fontFam);
+  static const IconData bxl_instagram_alt_1 =
+      const IconData(0xe82f, fontFamily: _fontFam);
+  static const IconData bxl_internet_explorer_1 =
+      const IconData(0xe830, fontFamily: _fontFam);
+  static const IconData bxl_invision_1 =
+      const IconData(0xe831, fontFamily: _fontFam);
+  static const IconData bxl_javascript_1 =
+      const IconData(0xe832, fontFamily: _fontFam);
+  static const IconData bxl_joomla_1 =
+      const IconData(0xe833, fontFamily: _fontFam);
+  static const IconData bxl_jquery_1 =
+      const IconData(0xe834, fontFamily: _fontFam);
+  static const IconData bxl_jsfiddle_1 =
+      const IconData(0xe835, fontFamily: _fontFam);
+  static const IconData bxl_kickstarter_1 =
+      const IconData(0xe836, fontFamily: _fontFam);
+  static const IconData bxl_less_1 =
+      const IconData(0xe837, fontFamily: _fontFam);
+  static const IconData bxl_linkedin_1 =
+      const IconData(0xe838, fontFamily: _fontFam);
+  static const IconData bxl_linkedin_square_1 =
+      const IconData(0xe839, fontFamily: _fontFam);
+  static const IconData bxl_magento_1 =
+      const IconData(0xe83a, fontFamily: _fontFam);
+  static const IconData bxl_mailchimp_1 =
+      const IconData(0xe83b, fontFamily: _fontFam);
+  static const IconData bxl_mastercard_1 =
+      const IconData(0xe83c, fontFamily: _fontFam);
+  static const IconData bxl_medium_1 =
+      const IconData(0xe83d, fontFamily: _fontFam);
+  static const IconData bxl_medium_old_1 =
+      const IconData(0xe83e, fontFamily: _fontFam);
+  static const IconData bxl_medium_square_1 =
+      const IconData(0xe83f, fontFamily: _fontFam);
+  static const IconData bxl_messenger_1 =
+      const IconData(0xe840, fontFamily: _fontFam);
+  static const IconData bxl_microsoft_1 =
+      const IconData(0xe841, fontFamily: _fontFam);
+  static const IconData bxl_nodejs_1 =
+      const IconData(0xe842, fontFamily: _fontFam);
+  static const IconData bxl_opera_1 =
+      const IconData(0xe843, fontFamily: _fontFam);
+  static const IconData bxl_patreon_1 =
+      const IconData(0xe844, fontFamily: _fontFam);
+  static const IconData bxl_paypal_1 =
+      const IconData(0xe845, fontFamily: _fontFam);
+  static const IconData bxl_periscope_1 =
+      const IconData(0xe846, fontFamily: _fontFam);
+  static const IconData bxl_pinterest_1 =
+      const IconData(0xe847, fontFamily: _fontFam);
+  static const IconData bxl_pinterest_alt_1 =
+      const IconData(0xe848, fontFamily: _fontFam);
+  static const IconData bxl_play_store_1 =
+      const IconData(0xe849, fontFamily: _fontFam);
+  static const IconData bxl_pocket_1 =
+      const IconData(0xe84a, fontFamily: _fontFam);
+  static const IconData bxl_product_hunt_1 =
+      const IconData(0xe84b, fontFamily: _fontFam);
+  static const IconData bxl_quora_1 =
+      const IconData(0xe84c, fontFamily: _fontFam);
+  static const IconData bxl_react_1 =
+      const IconData(0xe84d, fontFamily: _fontFam);
+  static const IconData bxl_redbubble_1 =
+      const IconData(0xe84e, fontFamily: _fontFam);
+  static const IconData bxl_reddit_1 =
+      const IconData(0xe84f, fontFamily: _fontFam);
+  static const IconData bxl_redux_1 =
+      const IconData(0xe850, fontFamily: _fontFam);
+  static const IconData bxl_sass_1 =
+      const IconData(0xe851, fontFamily: _fontFam);
+  static const IconData bxl_shopify_1 =
+      const IconData(0xe852, fontFamily: _fontFam);
+  static const IconData bxl_skype_1 =
+      const IconData(0xe853, fontFamily: _fontFam);
+  static const IconData bxl_slack_1 =
+      const IconData(0xe854, fontFamily: _fontFam);
+  static const IconData bxl_slack_old_1 =
+      const IconData(0xe855, fontFamily: _fontFam);
+  static const IconData bxl_snapchat_1 =
+      const IconData(0xe856, fontFamily: _fontFam);
+  static const IconData bxl_soundcloud_1 =
+      const IconData(0xe857, fontFamily: _fontFam);
+  static const IconData bxl_spotify_1 =
+      const IconData(0xe858, fontFamily: _fontFam);
+  static const IconData bxl_squarespace_1 =
+      const IconData(0xe859, fontFamily: _fontFam);
+  static const IconData bxl_stack_overflow_1 =
+      const IconData(0xe85a, fontFamily: _fontFam);
+  static const IconData bxl_stripe_1 =
+      const IconData(0xe85b, fontFamily: _fontFam);
+  static const IconData bxl_telegram_1 =
+      const IconData(0xe85c, fontFamily: _fontFam);
+  static const IconData bxl_trello_1 =
+      const IconData(0xe85d, fontFamily: _fontFam);
+  static const IconData bxl_tumblr_1 =
+      const IconData(0xe85e, fontFamily: _fontFam);
+  static const IconData bxl_twitch_1 =
+      const IconData(0xe85f, fontFamily: _fontFam);
+  static const IconData bxl_twitter_1 =
+      const IconData(0xe860, fontFamily: _fontFam);
+  static const IconData bxl_unsplash_1 =
+      const IconData(0xe861, fontFamily: _fontFam);
+  static const IconData bxl_vimeo_1 =
+      const IconData(0xe862, fontFamily: _fontFam);
+  static const IconData bxl_visa_1 =
+      const IconData(0xe863, fontFamily: _fontFam);
+  static const IconData bxl_vk_1 = const IconData(0xe864, fontFamily: _fontFam);
+  static const IconData bxl_vuejs_1 =
+      const IconData(0xe865, fontFamily: _fontFam);
+  static const IconData bxl_whatsapp_1 =
+      const IconData(0xe866, fontFamily: _fontFam);
+  static const IconData bxl_whatsapp_square_1 =
+      const IconData(0xe867, fontFamily: _fontFam);
+  static const IconData bxl_wikipedia_1 =
+      const IconData(0xe868, fontFamily: _fontFam);
+  static const IconData bxl_windows_1 =
+      const IconData(0xe869, fontFamily: _fontFam);
+  static const IconData bxl_wix_1 =
+      const IconData(0xe86a, fontFamily: _fontFam);
+  static const IconData bxl_wordpress_1 =
+      const IconData(0xe86b, fontFamily: _fontFam);
+  static const IconData bxl_yahoo_1 =
+      const IconData(0xe86c, fontFamily: _fontFam);
+  static const IconData bxl_yelp_1 =
+      const IconData(0xe86d, fontFamily: _fontFam);
+  static const IconData bxl_youtube_1 =
+      const IconData(0xe86e, fontFamily: _fontFam);
+  static const IconData bx_accessibility_1 =
+      const IconData(0xe86f, fontFamily: _fontFam);
+  static const IconData bx_add_to_queue_1 =
+      const IconData(0xe870, fontFamily: _fontFam);
+  static const IconData bx_adjust_1 =
+      const IconData(0xe871, fontFamily: _fontFam);
+  static const IconData bx_alarm_1 =
+      const IconData(0xe872, fontFamily: _fontFam);
+  static const IconData bx_alarm_add_1 =
+      const IconData(0xe873, fontFamily: _fontFam);
+  static const IconData bx_alarm_off_1 =
+      const IconData(0xe874, fontFamily: _fontFam);
+  static const IconData bx_album_1 =
+      const IconData(0xe875, fontFamily: _fontFam);
+  static const IconData bx_align_justify_1 =
+      const IconData(0xe876, fontFamily: _fontFam);
+  static const IconData bx_align_left_1 =
+      const IconData(0xe877, fontFamily: _fontFam);
+  static const IconData bx_align_middle_1 =
+      const IconData(0xe878, fontFamily: _fontFam);
+  static const IconData bx_align_right_1 =
+      const IconData(0xe879, fontFamily: _fontFam);
+  static const IconData bx_analyse_1 =
+      const IconData(0xe87a, fontFamily: _fontFam);
+  static const IconData bx_anchor_1 =
+      const IconData(0xe87b, fontFamily: _fontFam);
+  static const IconData bx_angry_1 =
+      const IconData(0xe87c, fontFamily: _fontFam);
+  static const IconData bx_aperture_1 =
+      const IconData(0xe87d, fontFamily: _fontFam);
+  static const IconData bx_arch_1 =
+      const IconData(0xe87e, fontFamily: _fontFam);
+  static const IconData bx_archive_1 =
+      const IconData(0xe87f, fontFamily: _fontFam);
+  static const IconData bx_archive_in_1 =
+      const IconData(0xe880, fontFamily: _fontFam);
+  static const IconData bx_archive_out_1 =
+      const IconData(0xe881, fontFamily: _fontFam);
+  static const IconData bx_area_1 =
+      const IconData(0xe882, fontFamily: _fontFam);
+  static const IconData bx_arrow_back_1 =
+      const IconData(0xe883, fontFamily: _fontFam);
+  static const IconData bx_arrow_from_bottom_1 =
+      const IconData(0xe884, fontFamily: _fontFam);
+  static const IconData bx_arrow_from_left_1 =
+      const IconData(0xe885, fontFamily: _fontFam);
+  static const IconData bx_arrow_from_right_1 =
+      const IconData(0xe886, fontFamily: _fontFam);
+  static const IconData bx_arrow_from_top_1 =
+      const IconData(0xe887, fontFamily: _fontFam);
+  static const IconData bx_arrow_to_bottom_1 =
+      const IconData(0xe888, fontFamily: _fontFam);
+  static const IconData bx_arrow_to_left_1 =
+      const IconData(0xe889, fontFamily: _fontFam);
+  static const IconData bx_arrow_to_right_1 =
+      const IconData(0xe88a, fontFamily: _fontFam);
+  static const IconData bx_arrow_to_top_1 =
+      const IconData(0xe88b, fontFamily: _fontFam);
+  static const IconData bx_at_1 = const IconData(0xe88c, fontFamily: _fontFam);
+  static const IconData bx_atom_1 =
+      const IconData(0xe88d, fontFamily: _fontFam);
+  static const IconData bx_award_1 =
+      const IconData(0xe88e, fontFamily: _fontFam);
+  static const IconData bx_badge_1 =
+      const IconData(0xe88f, fontFamily: _fontFam);
+  static const IconData bx_badge_check_1 =
+      const IconData(0xe890, fontFamily: _fontFam);
+  static const IconData bx_ball_1 =
+      const IconData(0xe891, fontFamily: _fontFam);
+  static const IconData bx_band_aid_1 =
+      const IconData(0xe892, fontFamily: _fontFam);
+  static const IconData bx_bar_chart_1 =
+      const IconData(0xe893, fontFamily: _fontFam);
+  static const IconData bx_bar_chart_alt_1 =
+      const IconData(0xe894, fontFamily: _fontFam);
+  static const IconData bx_bar_chart_alt_3 =
+      const IconData(0xe895, fontFamily: _fontFam);
+  static const IconData bx_bar_chart_square_1 =
+      const IconData(0xe896, fontFamily: _fontFam);
+  static const IconData bx_barcode_1 =
+      const IconData(0xe897, fontFamily: _fontFam);
+  static const IconData bx_baseball_1 =
+      const IconData(0xe898, fontFamily: _fontFam);
+  static const IconData bx_basket_1 =
+      const IconData(0xe899, fontFamily: _fontFam);
+  static const IconData bx_basketball_1 =
+      const IconData(0xe89a, fontFamily: _fontFam);
+  static const IconData bx_bath_1 =
+      const IconData(0xe89b, fontFamily: _fontFam);
+  static const IconData bx_battery_1 =
+      const IconData(0xe89c, fontFamily: _fontFam);
+  static const IconData bx_bed_1 = const IconData(0xe89d, fontFamily: _fontFam);
+  static const IconData bx_been_here_1 =
+      const IconData(0xe89e, fontFamily: _fontFam);
+  static const IconData bx_beer_1 =
+      const IconData(0xe89f, fontFamily: _fontFam);
+  static const IconData bx_bell_1 =
+      const IconData(0xe8a0, fontFamily: _fontFam);
+  static const IconData bx_bell_minus_1 =
+      const IconData(0xe8a1, fontFamily: _fontFam);
+  static const IconData bx_bell_off_1 =
+      const IconData(0xe8a2, fontFamily: _fontFam);
+  static const IconData bx_bell_plus_1 =
+      const IconData(0xe8a3, fontFamily: _fontFam);
+  static const IconData bx_bible_1 =
+      const IconData(0xe8a4, fontFamily: _fontFam);
+  static const IconData bx_bitcoin_1 =
+      const IconData(0xe8a5, fontFamily: _fontFam);
+  static const IconData bx_block_1 =
+      const IconData(0xe8a6, fontFamily: _fontFam);
+  static const IconData bx_bluetooth_1 =
+      const IconData(0xe8a7, fontFamily: _fontFam);
+  static const IconData bx_body_1 =
+      const IconData(0xe8a8, fontFamily: _fontFam);
+  static const IconData bx_bold_1 =
+      const IconData(0xe8a9, fontFamily: _fontFam);
+  static const IconData bx_bolt_circle_1 =
+      const IconData(0xe8aa, fontFamily: _fontFam);
+  static const IconData bx_bomb_1 =
+      const IconData(0xe8ab, fontFamily: _fontFam);
+  static const IconData bx_book_1 =
+      const IconData(0xe8ac, fontFamily: _fontFam);
+  static const IconData bx_book_bookmark_1 =
+      const IconData(0xe8ad, fontFamily: _fontFam);
+  static const IconData bx_book_content_1 =
+      const IconData(0xe8ae, fontFamily: _fontFam);
+  static const IconData bx_bookmark_1 =
+      const IconData(0xe8af, fontFamily: _fontFam);
+  static const IconData bx_bookmark_minus_1 =
+      const IconData(0xe8b0, fontFamily: _fontFam);
+  static const IconData bx_bookmark_plus_1 =
+      const IconData(0xe8b1, fontFamily: _fontFam);
+  static const IconData bx_bookmarks_1 =
+      const IconData(0xe8b2, fontFamily: _fontFam);
+  static const IconData bx_book_open_1 =
+      const IconData(0xe8b3, fontFamily: _fontFam);
+  static const IconData bx_book_reader_1 =
+      const IconData(0xe8b4, fontFamily: _fontFam);
+  static const IconData bx_border_all_1 =
+      const IconData(0xe8b5, fontFamily: _fontFam);
+  static const IconData bx_border_bottom_1 =
+      const IconData(0xe8b6, fontFamily: _fontFam);
+  static const IconData bx_border_inner_1 =
+      const IconData(0xe8b7, fontFamily: _fontFam);
+  static const IconData bx_border_left_1 =
+      const IconData(0xe8b8, fontFamily: _fontFam);
+  static const IconData bx_border_none_1 =
+      const IconData(0xe8b9, fontFamily: _fontFam);
+  static const IconData bx_border_radius_1 =
+      const IconData(0xe8ba, fontFamily: _fontFam);
+  static const IconData bx_border_right_1 =
+      const IconData(0xe8bb, fontFamily: _fontFam);
+  static const IconData bx_border_top_1 =
+      const IconData(0xe8bc, fontFamily: _fontFam);
+  static const IconData bx_bot_1 = const IconData(0xe8bd, fontFamily: _fontFam);
+  static const IconData bx_bowling_ball_1 =
+      const IconData(0xe8be, fontFamily: _fontFam);
+  static const IconData bx_box_1 = const IconData(0xe8bf, fontFamily: _fontFam);
+  static const IconData bx_briefcase_1 =
+      const IconData(0xe8c0, fontFamily: _fontFam);
+  static const IconData bx_briefcase_alt_1 =
+      const IconData(0xe8c1, fontFamily: _fontFam);
+  static const IconData bx_briefcase_alt_3 =
+      const IconData(0xe8c2, fontFamily: _fontFam);
+  static const IconData bx_brightness_1 =
+      const IconData(0xe8c3, fontFamily: _fontFam);
+  static const IconData bx_brightness_half_1 =
+      const IconData(0xe8c4, fontFamily: _fontFam);
+  static const IconData bx_broadcast_1 =
+      const IconData(0xe8c5, fontFamily: _fontFam);
+  static const IconData bx_brush_1 =
+      const IconData(0xe8c6, fontFamily: _fontFam);
+  static const IconData bx_brush_alt_1 =
+      const IconData(0xe8c7, fontFamily: _fontFam);
+  static const IconData bx_bug_1 = const IconData(0xe8c8, fontFamily: _fontFam);
+  static const IconData bx_bug_alt_1 =
+      const IconData(0xe8c9, fontFamily: _fontFam);
+  static const IconData bx_building_1 =
+      const IconData(0xe8ca, fontFamily: _fontFam);
+  static const IconData bx_building_house_1 =
+      const IconData(0xe8cb, fontFamily: _fontFam);
+  static const IconData bx_buildings_1 =
+      const IconData(0xe8cc, fontFamily: _fontFam);
+  static const IconData bx_bulb_1 =
+      const IconData(0xe8cd, fontFamily: _fontFam);
+  static const IconData bx_bullseye_1 =
+      const IconData(0xe8ce, fontFamily: _fontFam);
+  static const IconData bx_buoy_1 =
+      const IconData(0xe8cf, fontFamily: _fontFam);
+  static const IconData bx_bus_1 = const IconData(0xe8d0, fontFamily: _fontFam);
+  static const IconData bx_bus_school_1 =
+      const IconData(0xe8d1, fontFamily: _fontFam);
+  static const IconData bx_cabinet_1 =
+      const IconData(0xe8d2, fontFamily: _fontFam);
+  static const IconData bx_cake_1 =
+      const IconData(0xe8d3, fontFamily: _fontFam);
+  static const IconData bx_calculator_1 =
+      const IconData(0xe8d4, fontFamily: _fontFam);
+  static const IconData bx_calendar_1 =
+      const IconData(0xe8d5, fontFamily: _fontFam);
+  static const IconData bx_calendar_alt_1 =
+      const IconData(0xe8d6, fontFamily: _fontFam);
+  static const IconData bx_calendar_check_1 =
+      const IconData(0xe8d7, fontFamily: _fontFam);
+  static const IconData bx_calendar_edit_1 =
+      const IconData(0xe8d8, fontFamily: _fontFam);
+  static const IconData bx_calendar_event_1 =
+      const IconData(0xe8d9, fontFamily: _fontFam);
+  static const IconData bx_calendar_minus_1 =
+      const IconData(0xe8da, fontFamily: _fontFam);
+  static const IconData bx_calendar_plus_1 =
+      const IconData(0xe8db, fontFamily: _fontFam);
+  static const IconData bx_calendar_week_1 =
+      const IconData(0xe8dc, fontFamily: _fontFam);
+  static const IconData bx_calendar_x_1 =
+      const IconData(0xe8dd, fontFamily: _fontFam);
+  static const IconData bx_camera_1 =
+      const IconData(0xe8de, fontFamily: _fontFam);
+  static const IconData bx_camera_off_1 =
+      const IconData(0xe8df, fontFamily: _fontFam);
+  static const IconData bx_captions_1 =
+      const IconData(0xe8e0, fontFamily: _fontFam);
+  static const IconData bx_car_1 = const IconData(0xe8e1, fontFamily: _fontFam);
+  static const IconData bx_card_1 =
+      const IconData(0xe8e2, fontFamily: _fontFam);
+  static const IconData bx_caret_down_1 =
+      const IconData(0xe8e3, fontFamily: _fontFam);
+  static const IconData bx_caret_left_1 =
+      const IconData(0xe8e4, fontFamily: _fontFam);
+  static const IconData bx_caret_right_1 =
+      const IconData(0xe8e5, fontFamily: _fontFam);
+  static const IconData bx_caret_up_1 =
+      const IconData(0xe8e6, fontFamily: _fontFam);
+  static const IconData bx_carousel_1 =
+      const IconData(0xe8e7, fontFamily: _fontFam);
+  static const IconData bx_cart_1 =
+      const IconData(0xe8e8, fontFamily: _fontFam);
+  static const IconData bx_cart_alt_1 =
+      const IconData(0xe8e9, fontFamily: _fontFam);
+  static const IconData bx_cast_1 =
+      const IconData(0xe8ea, fontFamily: _fontFam);
+  static const IconData bx_certification_1 =
+      const IconData(0xe8eb, fontFamily: _fontFam);
+  static const IconData bx_chalkboard_1 =
+      const IconData(0xe8ec, fontFamily: _fontFam);
+  static const IconData bx_chart_1 =
+      const IconData(0xe8ed, fontFamily: _fontFam);
+  static const IconData bx_chat_1 =
+      const IconData(0xe8ee, fontFamily: _fontFam);
+  static const IconData bx_check_1 =
+      const IconData(0xe8ef, fontFamily: _fontFam);
+  static const IconData bx_checkbox_1 =
+      const IconData(0xe8f0, fontFamily: _fontFam);
+  static const IconData bx_checkbox_checked_1 =
+      const IconData(0xe8f1, fontFamily: _fontFam);
+  static const IconData bx_checkbox_square_1 =
+      const IconData(0xe8f2, fontFamily: _fontFam);
+  static const IconData bx_check_circle_1 =
+      const IconData(0xe8f3, fontFamily: _fontFam);
+  static const IconData bx_check_double_1 =
+      const IconData(0xe8f4, fontFamily: _fontFam);
+  static const IconData bx_check_shield_1 =
+      const IconData(0xe8f5, fontFamily: _fontFam);
+  static const IconData bx_check_square_1 =
+      const IconData(0xe8f6, fontFamily: _fontFam);
+  static const IconData bx_chevron_down_1 =
+      const IconData(0xe8f7, fontFamily: _fontFam);
+  static const IconData bx_chevron_left_1 =
+      const IconData(0xe8f8, fontFamily: _fontFam);
+  static const IconData bx_chevron_right_1 =
+      const IconData(0xe8f9, fontFamily: _fontFam);
+  static const IconData bx_chevrons_down_1 =
+      const IconData(0xe8fa, fontFamily: _fontFam);
+  static const IconData bx_chevrons_left_1 =
+      const IconData(0xe8fb, fontFamily: _fontFam);
+  static const IconData bx_chevrons_right_1 =
+      const IconData(0xe8fc, fontFamily: _fontFam);
+  static const IconData bx_chevrons_up_1 =
+      const IconData(0xe8fd, fontFamily: _fontFam);
+  static const IconData bx_chevron_up_1 =
+      const IconData(0xe8fe, fontFamily: _fontFam);
+  static const IconData bx_chip_1 =
+      const IconData(0xe8ff, fontFamily: _fontFam);
+  static const IconData bxl_500px =
+      const IconData(0xe900, fontFamily: _fontFam);
   static const IconData bxl_adobe =
       const IconData(0xe901, fontFamily: _fontFam);
   static const IconData bxl_airbnb =
@@ -2291,4 +2795,1977 @@ class Boxicons {
       const IconData(0xede3, fontFamily: _fontFam);
   static const IconData bxs_zoom_out =
       const IconData(0xede4, fontFamily: _fontFam);
+  static const IconData bx_circle_1 =
+      const IconData(0xede5, fontFamily: _fontFam);
+  static const IconData bx_clinic_1 =
+      const IconData(0xede6, fontFamily: _fontFam);
+  static const IconData bx_clipboard_1 =
+      const IconData(0xede7, fontFamily: _fontFam);
+  static const IconData bx_closet_1 =
+      const IconData(0xede8, fontFamily: _fontFam);
+  static const IconData bx_cloud_1 =
+      const IconData(0xede9, fontFamily: _fontFam);
+  static const IconData bx_cloud_download_1 =
+      const IconData(0xedea, fontFamily: _fontFam);
+  static const IconData bx_cloud_drizzle_1 =
+      const IconData(0xedeb, fontFamily: _fontFam);
+  static const IconData bx_cloud_lightning_1 =
+      const IconData(0xedec, fontFamily: _fontFam);
+  static const IconData bx_cloud_light_rain_1 =
+      const IconData(0xeded, fontFamily: _fontFam);
+  static const IconData bx_cloud_rain_1 =
+      const IconData(0xedee, fontFamily: _fontFam);
+  static const IconData bx_cloud_snow_1 =
+      const IconData(0xedef, fontFamily: _fontFam);
+  static const IconData bx_cloud_upload_1 =
+      const IconData(0xedf0, fontFamily: _fontFam);
+  static const IconData bx_code_1 =
+      const IconData(0xedf1, fontFamily: _fontFam);
+  static const IconData bx_code_alt_1 =
+      const IconData(0xedf2, fontFamily: _fontFam);
+  static const IconData bx_code_block_1 =
+      const IconData(0xedf3, fontFamily: _fontFam);
+  static const IconData bx_code_curly_1 =
+      const IconData(0xedf4, fontFamily: _fontFam);
+  static const IconData bx_coffee_1 =
+      const IconData(0xedf5, fontFamily: _fontFam);
+  static const IconData bx_coffee_togo_1 =
+      const IconData(0xedf6, fontFamily: _fontFam);
+  static const IconData bx_cog_1 = const IconData(0xedf7, fontFamily: _fontFam);
+  static const IconData bx_collapse_1 =
+      const IconData(0xedf8, fontFamily: _fontFam);
+  static const IconData bx_collection_1 =
+      const IconData(0xedf9, fontFamily: _fontFam);
+  static const IconData bx_columns_1 =
+      const IconData(0xedfa, fontFamily: _fontFam);
+  static const IconData bx_command_1 =
+      const IconData(0xedfb, fontFamily: _fontFam);
+  static const IconData bx_comment_1 =
+      const IconData(0xedfc, fontFamily: _fontFam);
+  static const IconData bx_comment_dots_1 =
+      const IconData(0xedfd, fontFamily: _fontFam);
+  static const IconData bx_compass_1 =
+      const IconData(0xedfe, fontFamily: _fontFam);
+  static const IconData bx_confused_1 =
+      const IconData(0xedff, fontFamily: _fontFam);
+  static const IconData bx_conversation_1 =
+      const IconData(0xee00, fontFamily: _fontFam);
+  static const IconData bx_cool_1 =
+      const IconData(0xee01, fontFamily: _fontFam);
+  static const IconData bx_copy_1 =
+      const IconData(0xee02, fontFamily: _fontFam);
+  static const IconData bx_copy_alt_1 =
+      const IconData(0xee03, fontFamily: _fontFam);
+  static const IconData bx_copyright_1 =
+      const IconData(0xee04, fontFamily: _fontFam);
+  static const IconData bx_credit_card_1 =
+      const IconData(0xee05, fontFamily: _fontFam);
+  static const IconData bx_credit_card_alt_1 =
+      const IconData(0xee06, fontFamily: _fontFam);
+  static const IconData bx_crop_1 =
+      const IconData(0xee07, fontFamily: _fontFam);
+  static const IconData bx_crosshair_1 =
+      const IconData(0xee08, fontFamily: _fontFam);
+  static const IconData bx_crown_1 =
+      const IconData(0xee09, fontFamily: _fontFam);
+  static const IconData bx_cube_1 =
+      const IconData(0xee0a, fontFamily: _fontFam);
+  static const IconData bx_cube_alt_1 =
+      const IconData(0xee0b, fontFamily: _fontFam);
+  static const IconData bx_cuboid_1 =
+      const IconData(0xee0c, fontFamily: _fontFam);
+  static const IconData bx_current_location_1 =
+      const IconData(0xee0d, fontFamily: _fontFam);
+  static const IconData bx_customize_1 =
+      const IconData(0xee0e, fontFamily: _fontFam);
+  static const IconData bx_cut_1 = const IconData(0xee0f, fontFamily: _fontFam);
+  static const IconData bx_cycling_1 =
+      const IconData(0xee10, fontFamily: _fontFam);
+  static const IconData bx_cylinder_1 =
+      const IconData(0xee11, fontFamily: _fontFam);
+  static const IconData bx_data_1 =
+      const IconData(0xee12, fontFamily: _fontFam);
+  static const IconData bx_desktop_1 =
+      const IconData(0xee13, fontFamily: _fontFam);
+  static const IconData bx_detail_1 =
+      const IconData(0xee14, fontFamily: _fontFam);
+  static const IconData bx_devices_1 =
+      const IconData(0xee15, fontFamily: _fontFam);
+  static const IconData bx_dialpad_1 =
+      const IconData(0xee16, fontFamily: _fontFam);
+  static const IconData bx_dialpad_alt_1 =
+      const IconData(0xee17, fontFamily: _fontFam);
+  static const IconData bx_diamond_1 =
+      const IconData(0xee18, fontFamily: _fontFam);
+  static const IconData bx_dice_7 =
+      const IconData(0xee19, fontFamily: _fontFam);
+  static const IconData bx_dice_8 =
+      const IconData(0xee1a, fontFamily: _fontFam);
+  static const IconData bx_dice_9 =
+      const IconData(0xee1b, fontFamily: _fontFam);
+  static const IconData bx_dice_10 =
+      const IconData(0xee1c, fontFamily: _fontFam);
+  static const IconData bx_dice_11 =
+      const IconData(0xee1d, fontFamily: _fontFam);
+  static const IconData bx_dice_12 =
+      const IconData(0xee1e, fontFamily: _fontFam);
+  static const IconData bx_directions_1 =
+      const IconData(0xee1f, fontFamily: _fontFam);
+  static const IconData bx_disc_1 =
+      const IconData(0xee20, fontFamily: _fontFam);
+  static const IconData bx_dish_1 =
+      const IconData(0xee21, fontFamily: _fontFam);
+  static const IconData bx_dislike_1 =
+      const IconData(0xee22, fontFamily: _fontFam);
+  static const IconData bx_dizzy_1 =
+      const IconData(0xee23, fontFamily: _fontFam);
+  static const IconData bx_dna_1 = const IconData(0xee24, fontFamily: _fontFam);
+  static const IconData bx_dock_bottom_1 =
+      const IconData(0xee25, fontFamily: _fontFam);
+  static const IconData bx_dock_left_1 =
+      const IconData(0xee26, fontFamily: _fontFam);
+  static const IconData bx_dock_right_1 =
+      const IconData(0xee27, fontFamily: _fontFam);
+  static const IconData bx_dock_top_1 =
+      const IconData(0xee28, fontFamily: _fontFam);
+  static const IconData bx_dollar_1 =
+      const IconData(0xee29, fontFamily: _fontFam);
+  static const IconData bx_dollar_circle_1 =
+      const IconData(0xee2a, fontFamily: _fontFam);
+  static const IconData bx_dots_horizontal_1 =
+      const IconData(0xee2b, fontFamily: _fontFam);
+  static const IconData bx_dots_horizontal_rounded_1 =
+      const IconData(0xee2c, fontFamily: _fontFam);
+  static const IconData bx_dots_vertical_1 =
+      const IconData(0xee2d, fontFamily: _fontFam);
+  static const IconData bx_dots_vertical_rounded_1 =
+      const IconData(0xee2e, fontFamily: _fontFam);
+  static const IconData bx_doughnut_chart_1 =
+      const IconData(0xee2f, fontFamily: _fontFam);
+  static const IconData bx_down_arrow_1 =
+      const IconData(0xee30, fontFamily: _fontFam);
+  static const IconData bx_down_arrow_alt_1 =
+      const IconData(0xee31, fontFamily: _fontFam);
+  static const IconData bx_down_arrow_circle_1 =
+      const IconData(0xee32, fontFamily: _fontFam);
+  static const IconData bx_download_1 =
+      const IconData(0xee33, fontFamily: _fontFam);
+  static const IconData bx_downvote_1 =
+      const IconData(0xee34, fontFamily: _fontFam);
+  static const IconData bx_droplet_1 =
+      const IconData(0xee35, fontFamily: _fontFam);
+  static const IconData bx_dumbbell_1 =
+      const IconData(0xee36, fontFamily: _fontFam);
+  static const IconData bx_duplicate_1 =
+      const IconData(0xee37, fontFamily: _fontFam);
+  static const IconData bx_edit_1 =
+      const IconData(0xee38, fontFamily: _fontFam);
+  static const IconData bx_edit_alt_1 =
+      const IconData(0xee39, fontFamily: _fontFam);
+  static const IconData bx_envelope_1 =
+      const IconData(0xee3a, fontFamily: _fontFam);
+  static const IconData bx_equalizer_1 =
+      const IconData(0xee3b, fontFamily: _fontFam);
+  static const IconData bx_error_1 =
+      const IconData(0xee3c, fontFamily: _fontFam);
+  static const IconData bx_error_alt_1 =
+      const IconData(0xee3d, fontFamily: _fontFam);
+  static const IconData bx_error_circle_1 =
+      const IconData(0xee3e, fontFamily: _fontFam);
+  static const IconData bx_euro_1 =
+      const IconData(0xee3f, fontFamily: _fontFam);
+  static const IconData bx_exit_1 =
+      const IconData(0xee40, fontFamily: _fontFam);
+  static const IconData bx_exit_fullscreen_1 =
+      const IconData(0xee41, fontFamily: _fontFam);
+  static const IconData bx_expand_1 =
+      const IconData(0xee42, fontFamily: _fontFam);
+  static const IconData bx_export_1 =
+      const IconData(0xee43, fontFamily: _fontFam);
+  static const IconData bx_extension_1 =
+      const IconData(0xee44, fontFamily: _fontFam);
+  static const IconData bx_face_1 =
+      const IconData(0xee45, fontFamily: _fontFam);
+  static const IconData bx_fast_forward_1 =
+      const IconData(0xee46, fontFamily: _fontFam);
+  static const IconData bx_fast_forward_circle_1 =
+      const IconData(0xee47, fontFamily: _fontFam);
+  static const IconData bx_female_1 =
+      const IconData(0xee48, fontFamily: _fontFam);
+  static const IconData bx_female_sign_1 =
+      const IconData(0xee49, fontFamily: _fontFam);
+  static const IconData bx_file_1 =
+      const IconData(0xee4a, fontFamily: _fontFam);
+  static const IconData bx_file_blank_1 =
+      const IconData(0xee4b, fontFamily: _fontFam);
+  static const IconData bx_file_find_1 =
+      const IconData(0xee4c, fontFamily: _fontFam);
+  static const IconData bx_film_1 =
+      const IconData(0xee4d, fontFamily: _fontFam);
+  static const IconData bx_filter_1 =
+      const IconData(0xee4e, fontFamily: _fontFam);
+  static const IconData bx_filter_alt_1 =
+      const IconData(0xee4f, fontFamily: _fontFam);
+  static const IconData bx_fingerprint_1 =
+      const IconData(0xee50, fontFamily: _fontFam);
+  static const IconData bx_first_aid_1 =
+      const IconData(0xee51, fontFamily: _fontFam);
+  static const IconData bx_first_page_1 =
+      const IconData(0xee52, fontFamily: _fontFam);
+  static const IconData bx_flag_1 =
+      const IconData(0xee53, fontFamily: _fontFam);
+  static const IconData bx_folder_1 =
+      const IconData(0xee54, fontFamily: _fontFam);
+  static const IconData bx_folder_minus_1 =
+      const IconData(0xee55, fontFamily: _fontFam);
+  static const IconData bx_folder_open_1 =
+      const IconData(0xee56, fontFamily: _fontFam);
+  static const IconData bx_folder_plus_1 =
+      const IconData(0xee57, fontFamily: _fontFam);
+  static const IconData bx_font_1 =
+      const IconData(0xee58, fontFamily: _fontFam);
+  static const IconData bx_font_color_1 =
+      const IconData(0xee59, fontFamily: _fontFam);
+  static const IconData bx_font_family_1 =
+      const IconData(0xee5a, fontFamily: _fontFam);
+  static const IconData bx_font_size_1 =
+      const IconData(0xee5b, fontFamily: _fontFam);
+  static const IconData bx_food_menu_1 =
+      const IconData(0xee5c, fontFamily: _fontFam);
+  static const IconData bx_food_tag_1 =
+      const IconData(0xee5d, fontFamily: _fontFam);
+  static const IconData bx_football_1 =
+      const IconData(0xee5e, fontFamily: _fontFam);
+  static const IconData bx_fridge_1 =
+      const IconData(0xee5f, fontFamily: _fontFam);
+  static const IconData bx_fullscreen_1 =
+      const IconData(0xee60, fontFamily: _fontFam);
+  static const IconData bx_gas_pump_1 =
+      const IconData(0xee61, fontFamily: _fontFam);
+  static const IconData bx_ghost_1 =
+      const IconData(0xee62, fontFamily: _fontFam);
+  static const IconData bx_gift_1 =
+      const IconData(0xee63, fontFamily: _fontFam);
+  static const IconData bx_git_branch_1 =
+      const IconData(0xee64, fontFamily: _fontFam);
+  static const IconData bx_git_commit_1 =
+      const IconData(0xee65, fontFamily: _fontFam);
+  static const IconData bx_git_compare_1 =
+      const IconData(0xee66, fontFamily: _fontFam);
+  static const IconData bx_git_merge_1 =
+      const IconData(0xee67, fontFamily: _fontFam);
+  static const IconData bx_git_pull_request_1 =
+      const IconData(0xee68, fontFamily: _fontFam);
+  static const IconData bx_git_repo_forked_1 =
+      const IconData(0xee69, fontFamily: _fontFam);
+  static const IconData bx_glasses_1 =
+      const IconData(0xee6a, fontFamily: _fontFam);
+  static const IconData bx_glasses_alt_1 =
+      const IconData(0xee6b, fontFamily: _fontFam);
+  static const IconData bx_globe_1 =
+      const IconData(0xee6c, fontFamily: _fontFam);
+  static const IconData bx_globe_alt_1 =
+      const IconData(0xee6d, fontFamily: _fontFam);
+  static const IconData bx_grid_1 =
+      const IconData(0xee6e, fontFamily: _fontFam);
+  static const IconData bx_grid_alt_1 =
+      const IconData(0xee6f, fontFamily: _fontFam);
+  static const IconData bx_grid_horizontal_1 =
+      const IconData(0xee70, fontFamily: _fontFam);
+  static const IconData bx_grid_small_1 =
+      const IconData(0xee71, fontFamily: _fontFam);
+  static const IconData bx_grid_vertical_1 =
+      const IconData(0xee72, fontFamily: _fontFam);
+  static const IconData bx_group_1 =
+      const IconData(0xee73, fontFamily: _fontFam);
+  static const IconData bx_handicap_1 =
+      const IconData(0xee74, fontFamily: _fontFam);
+  static const IconData bx_happy_1 =
+      const IconData(0xee75, fontFamily: _fontFam);
+  static const IconData bx_happy_alt_1 =
+      const IconData(0xee76, fontFamily: _fontFam);
+  static const IconData bx_happy_beaming_1 =
+      const IconData(0xee77, fontFamily: _fontFam);
+  static const IconData bx_happy_heart_eyes_1 =
+      const IconData(0xee78, fontFamily: _fontFam);
+  static const IconData bx_hash_1 =
+      const IconData(0xee79, fontFamily: _fontFam);
+  static const IconData bx_hdd_1 = const IconData(0xee7a, fontFamily: _fontFam);
+  static const IconData bx_heading_1 =
+      const IconData(0xee7b, fontFamily: _fontFam);
+  static const IconData bx_headphone_1 =
+      const IconData(0xee7c, fontFamily: _fontFam);
+  static const IconData bx_health_1 =
+      const IconData(0xee7d, fontFamily: _fontFam);
+  static const IconData bx_heart_1 =
+      const IconData(0xee7e, fontFamily: _fontFam);
+  static const IconData bx_heart_circle_1 =
+      const IconData(0xee7f, fontFamily: _fontFam);
+  static const IconData bx_heart_square_1 =
+      const IconData(0xee80, fontFamily: _fontFam);
+  static const IconData bx_help_circle_1 =
+      const IconData(0xee81, fontFamily: _fontFam);
+  static const IconData bx_hide_1 =
+      const IconData(0xee82, fontFamily: _fontFam);
+  static const IconData bx_highlight_1 =
+      const IconData(0xee83, fontFamily: _fontFam);
+  static const IconData bx_history_1 =
+      const IconData(0xee84, fontFamily: _fontFam);
+  static const IconData bx_hive_1 =
+      const IconData(0xee85, fontFamily: _fontFam);
+  static const IconData bx_home_1 =
+      const IconData(0xee86, fontFamily: _fontFam);
+  static const IconData bx_home_alt_1 =
+      const IconData(0xee87, fontFamily: _fontFam);
+  static const IconData bx_home_circle_1 =
+      const IconData(0xee88, fontFamily: _fontFam);
+  static const IconData bx_home_heart_1 =
+      const IconData(0xee89, fontFamily: _fontFam);
+  static const IconData bx_horizontal_center_1 =
+      const IconData(0xee8a, fontFamily: _fontFam);
+  static const IconData bx_hotel_1 =
+      const IconData(0xee8b, fontFamily: _fontFam);
+  static const IconData bx_hourglass_1 =
+      const IconData(0xee8c, fontFamily: _fontFam);
+  static const IconData bx_id_card_1 =
+      const IconData(0xee8d, fontFamily: _fontFam);
+  static const IconData bx_image_1 =
+      const IconData(0xee8e, fontFamily: _fontFam);
+  static const IconData bx_image_add_1 =
+      const IconData(0xee8f, fontFamily: _fontFam);
+  static const IconData bx_image_alt_1 =
+      const IconData(0xee90, fontFamily: _fontFam);
+  static const IconData bx_images_1 =
+      const IconData(0xee91, fontFamily: _fontFam);
+  static const IconData bx_import_1 =
+      const IconData(0xee92, fontFamily: _fontFam);
+  static const IconData bx_infinite_1 =
+      const IconData(0xee93, fontFamily: _fontFam);
+  static const IconData bx_info_circle_1 =
+      const IconData(0xee94, fontFamily: _fontFam);
+  static const IconData bx_info_square_1 =
+      const IconData(0xee95, fontFamily: _fontFam);
+  static const IconData bx_italic_1 =
+      const IconData(0xee96, fontFamily: _fontFam);
+  static const IconData bx_joystick_1 =
+      const IconData(0xee97, fontFamily: _fontFam);
+  static const IconData bx_joystick_alt_1 =
+      const IconData(0xee98, fontFamily: _fontFam);
+  static const IconData bx_joystick_button_1 =
+      const IconData(0xee99, fontFamily: _fontFam);
+  static const IconData bx_key_1 = const IconData(0xee9a, fontFamily: _fontFam);
+  static const IconData bx_label_1 =
+      const IconData(0xee9b, fontFamily: _fontFam);
+  static const IconData bx_landscape_1 =
+      const IconData(0xee9c, fontFamily: _fontFam);
+  static const IconData bx_laptop_1 =
+      const IconData(0xee9d, fontFamily: _fontFam);
+  static const IconData bx_last_page_1 =
+      const IconData(0xee9e, fontFamily: _fontFam);
+  static const IconData bx_laugh_1 =
+      const IconData(0xee9f, fontFamily: _fontFam);
+  static const IconData bx_layer_1 =
+      const IconData(0xeea0, fontFamily: _fontFam);
+  static const IconData bx_layer_minus_1 =
+      const IconData(0xeea1, fontFamily: _fontFam);
+  static const IconData bx_layer_plus_1 =
+      const IconData(0xeea2, fontFamily: _fontFam);
+  static const IconData bx_layout_1 =
+      const IconData(0xeea3, fontFamily: _fontFam);
+  static const IconData bx_left_arrow_1 =
+      const IconData(0xeea4, fontFamily: _fontFam);
+  static const IconData bx_left_arrow_alt_1 =
+      const IconData(0xeea5, fontFamily: _fontFam);
+  static const IconData bx_left_arrow_circle_1 =
+      const IconData(0xeea6, fontFamily: _fontFam);
+  static const IconData bx_left_down_arrow_circle_1 =
+      const IconData(0xeea7, fontFamily: _fontFam);
+  static const IconData bx_left_indent_1 =
+      const IconData(0xeea8, fontFamily: _fontFam);
+  static const IconData bx_left_top_arrow_circle_1 =
+      const IconData(0xeea9, fontFamily: _fontFam);
+  static const IconData bx_like_1 =
+      const IconData(0xeeaa, fontFamily: _fontFam);
+  static const IconData bx_line_chart_1 =
+      const IconData(0xeeab, fontFamily: _fontFam);
+  static const IconData bx_link_1 =
+      const IconData(0xeeac, fontFamily: _fontFam);
+  static const IconData bx_link_alt_1 =
+      const IconData(0xeead, fontFamily: _fontFam);
+  static const IconData bx_link_external_1 =
+      const IconData(0xeeae, fontFamily: _fontFam);
+  static const IconData bx_lira_1 =
+      const IconData(0xeeaf, fontFamily: _fontFam);
+  static const IconData bx_list_check_1 =
+      const IconData(0xeeb0, fontFamily: _fontFam);
+  static const IconData bx_list_minus_1 =
+      const IconData(0xeeb1, fontFamily: _fontFam);
+  static const IconData bx_list_ol_1 =
+      const IconData(0xeeb2, fontFamily: _fontFam);
+  static const IconData bx_list_plus_1 =
+      const IconData(0xeeb3, fontFamily: _fontFam);
+  static const IconData bx_list_ul_1 =
+      const IconData(0xeeb4, fontFamily: _fontFam);
+  static const IconData bx_loader_1 =
+      const IconData(0xeeb5, fontFamily: _fontFam);
+  static const IconData bx_loader_alt_1 =
+      const IconData(0xeeb6, fontFamily: _fontFam);
+  static const IconData bx_loader_circle_1 =
+      const IconData(0xeeb7, fontFamily: _fontFam);
+  static const IconData bx_location_plus_1 =
+      const IconData(0xeeb8, fontFamily: _fontFam);
+  static const IconData bx_lock_1 =
+      const IconData(0xeeb9, fontFamily: _fontFam);
+  static const IconData bx_lock_alt_1 =
+      const IconData(0xeeba, fontFamily: _fontFam);
+  static const IconData bx_lock_open_1 =
+      const IconData(0xeebb, fontFamily: _fontFam);
+  static const IconData bx_lock_open_alt_1 =
+      const IconData(0xeebc, fontFamily: _fontFam);
+  static const IconData bx_log_in_1 =
+      const IconData(0xeebd, fontFamily: _fontFam);
+  static const IconData bx_log_in_circle_1 =
+      const IconData(0xeebe, fontFamily: _fontFam);
+  static const IconData bx_log_out_1 =
+      const IconData(0xeebf, fontFamily: _fontFam);
+  static const IconData bx_log_out_circle_1 =
+      const IconData(0xeec0, fontFamily: _fontFam);
+  static const IconData bx_low_vision_1 =
+      const IconData(0xeec1, fontFamily: _fontFam);
+  static const IconData bx_magnet_1 =
+      const IconData(0xeec2, fontFamily: _fontFam);
+  static const IconData bx_mail_send_1 =
+      const IconData(0xeec3, fontFamily: _fontFam);
+  static const IconData bx_male_1 =
+      const IconData(0xeec4, fontFamily: _fontFam);
+  static const IconData bx_male_sign_1 =
+      const IconData(0xeec5, fontFamily: _fontFam);
+  static const IconData bx_map_1 = const IconData(0xeec6, fontFamily: _fontFam);
+  static const IconData bx_map_alt_1 =
+      const IconData(0xeec7, fontFamily: _fontFam);
+  static const IconData bx_map_pin_1 =
+      const IconData(0xeec8, fontFamily: _fontFam);
+  static const IconData bx_mask_1 =
+      const IconData(0xeec9, fontFamily: _fontFam);
+  static const IconData bx_meh_1 = const IconData(0xeeca, fontFamily: _fontFam);
+  static const IconData bx_meh_alt_1 =
+      const IconData(0xeecb, fontFamily: _fontFam);
+  static const IconData bx_meh_blank_1 =
+      const IconData(0xeecc, fontFamily: _fontFam);
+  static const IconData bx_memory_card_1 =
+      const IconData(0xeecd, fontFamily: _fontFam);
+  static const IconData bx_menu_1 =
+      const IconData(0xeece, fontFamily: _fontFam);
+  static const IconData bx_menu_alt_left_1 =
+      const IconData(0xeecf, fontFamily: _fontFam);
+  static const IconData bx_menu_alt_right_1 =
+      const IconData(0xeed0, fontFamily: _fontFam);
+  static const IconData bx_message_1 =
+      const IconData(0xeed1, fontFamily: _fontFam);
+  static const IconData bx_message_alt_1 =
+      const IconData(0xeed2, fontFamily: _fontFam);
+  static const IconData bx_message_alt_dots_1 =
+      const IconData(0xeed3, fontFamily: _fontFam);
+  static const IconData bx_message_dots_1 =
+      const IconData(0xeed4, fontFamily: _fontFam);
+  static const IconData bx_message_rounded_1 =
+      const IconData(0xeed5, fontFamily: _fontFam);
+  static const IconData bx_message_rounded_dots_1 =
+      const IconData(0xeed6, fontFamily: _fontFam);
+  static const IconData bx_message_square_1 =
+      const IconData(0xeed7, fontFamily: _fontFam);
+  static const IconData bx_message_square_dots_1 =
+      const IconData(0xeed8, fontFamily: _fontFam);
+  static const IconData bx_microchip_1 =
+      const IconData(0xeed9, fontFamily: _fontFam);
+  static const IconData bx_microphone_1 =
+      const IconData(0xeeda, fontFamily: _fontFam);
+  static const IconData bx_microphone_off_1 =
+      const IconData(0xeedb, fontFamily: _fontFam);
+  static const IconData bx_minus_1 =
+      const IconData(0xeedc, fontFamily: _fontFam);
+  static const IconData bx_minus_circle_1 =
+      const IconData(0xeedd, fontFamily: _fontFam);
+  static const IconData bx_mobile_1 =
+      const IconData(0xeede, fontFamily: _fontFam);
+  static const IconData bx_mobile_alt_1 =
+      const IconData(0xeedf, fontFamily: _fontFam);
+  static const IconData bx_mobile_landscape_1 =
+      const IconData(0xeee0, fontFamily: _fontFam);
+  static const IconData bx_mobile_vibration_1 =
+      const IconData(0xeee1, fontFamily: _fontFam);
+  static const IconData bx_money_1 =
+      const IconData(0xeee2, fontFamily: _fontFam);
+  static const IconData bx_moon_1 =
+      const IconData(0xeee3, fontFamily: _fontFam);
+  static const IconData bx_mouse_1 =
+      const IconData(0xeee4, fontFamily: _fontFam);
+  static const IconData bx_mouse_alt_1 =
+      const IconData(0xeee5, fontFamily: _fontFam);
+  static const IconData bx_move_1 =
+      const IconData(0xeee6, fontFamily: _fontFam);
+  static const IconData bx_move_horizontal_1 =
+      const IconData(0xeee7, fontFamily: _fontFam);
+  static const IconData bx_move_vertical_1 =
+      const IconData(0xeee8, fontFamily: _fontFam);
+  static const IconData bx_movie_1 =
+      const IconData(0xeee9, fontFamily: _fontFam);
+  static const IconData bx_music_1 =
+      const IconData(0xeeea, fontFamily: _fontFam);
+  static const IconData bx_navigation_1 =
+      const IconData(0xeeeb, fontFamily: _fontFam);
+  static const IconData bx_news_1 =
+      const IconData(0xeeec, fontFamily: _fontFam);
+  static const IconData bx_no_entry_1 =
+      const IconData(0xeeed, fontFamily: _fontFam);
+  static const IconData bx_note_1 =
+      const IconData(0xeeee, fontFamily: _fontFam);
+  static const IconData bx_notepad_1 =
+      const IconData(0xeeef, fontFamily: _fontFam);
+  static const IconData bx_notification_1 =
+      const IconData(0xeef0, fontFamily: _fontFam);
+  static const IconData bx_notification_off_1 =
+      const IconData(0xeef1, fontFamily: _fontFam);
+  static const IconData bx_package_1 =
+      const IconData(0xeef2, fontFamily: _fontFam);
+  static const IconData bx_paint_1 =
+      const IconData(0xeef3, fontFamily: _fontFam);
+  static const IconData bx_paint_roll_1 =
+      const IconData(0xeef4, fontFamily: _fontFam);
+  static const IconData bx_palette_1 =
+      const IconData(0xeef5, fontFamily: _fontFam);
+  static const IconData bx_paperclip_1 =
+      const IconData(0xeef6, fontFamily: _fontFam);
+  static const IconData bx_paper_plane_1 =
+      const IconData(0xeef7, fontFamily: _fontFam);
+  static const IconData bx_paragraph_1 =
+      const IconData(0xeef8, fontFamily: _fontFam);
+  static const IconData bx_paste_1 =
+      const IconData(0xeef9, fontFamily: _fontFam);
+  static const IconData bx_pause_1 =
+      const IconData(0xeefa, fontFamily: _fontFam);
+  static const IconData bx_pause_circle_1 =
+      const IconData(0xeefb, fontFamily: _fontFam);
+  static const IconData bx_pen_1 = const IconData(0xeefc, fontFamily: _fontFam);
+  static const IconData bx_pencil_1 =
+      const IconData(0xeefd, fontFamily: _fontFam);
+  static const IconData bx_phone_1 =
+      const IconData(0xeefe, fontFamily: _fontFam);
+  static const IconData bx_phone_call_1 =
+      const IconData(0xeeff, fontFamily: _fontFam);
+  static const IconData bx_phone_incoming_1 =
+      const IconData(0xef00, fontFamily: _fontFam);
+  static const IconData bx_phone_outgoing_1 =
+      const IconData(0xef01, fontFamily: _fontFam);
+  static const IconData bx_photo_album_1 =
+      const IconData(0xef02, fontFamily: _fontFam);
+  static const IconData bx_pie_chart_1 =
+      const IconData(0xef03, fontFamily: _fontFam);
+  static const IconData bx_pie_chart_alt_1 =
+      const IconData(0xef04, fontFamily: _fontFam);
+  static const IconData bx_pie_chart_alt_3 =
+      const IconData(0xef05, fontFamily: _fontFam);
+  static const IconData bx_pin_1 = const IconData(0xef06, fontFamily: _fontFam);
+  static const IconData bx_planet_1 =
+      const IconData(0xef07, fontFamily: _fontFam);
+  static const IconData bx_play_1 =
+      const IconData(0xef08, fontFamily: _fontFam);
+  static const IconData bx_play_circle_1 =
+      const IconData(0xef09, fontFamily: _fontFam);
+  static const IconData bx_plug_1 =
+      const IconData(0xef0a, fontFamily: _fontFam);
+  static const IconData bx_plus_1 =
+      const IconData(0xef0b, fontFamily: _fontFam);
+  static const IconData bx_plus_circle_1 =
+      const IconData(0xef0c, fontFamily: _fontFam);
+  static const IconData bx_plus_medical_1 =
+      const IconData(0xef0d, fontFamily: _fontFam);
+  static const IconData bx_pointer_1 =
+      const IconData(0xef0e, fontFamily: _fontFam);
+  static const IconData bx_poll_1 =
+      const IconData(0xef0f, fontFamily: _fontFam);
+  static const IconData bx_polygon_1 =
+      const IconData(0xef10, fontFamily: _fontFam);
+  static const IconData bx_pound_1 =
+      const IconData(0xef11, fontFamily: _fontFam);
+  static const IconData bx_power_off_1 =
+      const IconData(0xef12, fontFamily: _fontFam);
+  static const IconData bx_printer_1 =
+      const IconData(0xef13, fontFamily: _fontFam);
+  static const IconData bx_pulse_1 =
+      const IconData(0xef14, fontFamily: _fontFam);
+  static const IconData bx_purchase_tag_1 =
+      const IconData(0xef15, fontFamily: _fontFam);
+  static const IconData bx_purchase_tag_alt_1 =
+      const IconData(0xef16, fontFamily: _fontFam);
+  static const IconData bx_pyramid_1 =
+      const IconData(0xef17, fontFamily: _fontFam);
+  static const IconData bx_question_mark_1 =
+      const IconData(0xef18, fontFamily: _fontFam);
+  static const IconData bx_radar_1 =
+      const IconData(0xef19, fontFamily: _fontFam);
+  static const IconData bx_radio_1 =
+      const IconData(0xef1a, fontFamily: _fontFam);
+  static const IconData bx_radio_circle_1 =
+      const IconData(0xef1b, fontFamily: _fontFam);
+  static const IconData bx_radio_circle_marked_1 =
+      const IconData(0xef1c, fontFamily: _fontFam);
+  static const IconData bx_receipt_1 =
+      const IconData(0xef1d, fontFamily: _fontFam);
+  static const IconData bx_rectangle_1 =
+      const IconData(0xef1e, fontFamily: _fontFam);
+  static const IconData bx_recycle_1 =
+      const IconData(0xef1f, fontFamily: _fontFam);
+  static const IconData bx_redo_1 =
+      const IconData(0xef20, fontFamily: _fontFam);
+  static const IconData bx_rename_1 =
+      const IconData(0xef21, fontFamily: _fontFam);
+  static const IconData bx_repeat_1 =
+      const IconData(0xef22, fontFamily: _fontFam);
+  static const IconData bx_reply_1 =
+      const IconData(0xef23, fontFamily: _fontFam);
+  static const IconData bx_reply_all_1 =
+      const IconData(0xef24, fontFamily: _fontFam);
+  static const IconData bx_repost_1 =
+      const IconData(0xef25, fontFamily: _fontFam);
+  static const IconData bx_reset_1 =
+      const IconData(0xef26, fontFamily: _fontFam);
+  static const IconData bx_restaurant_1 =
+      const IconData(0xef27, fontFamily: _fontFam);
+  static const IconData bx_revision_1 =
+      const IconData(0xef28, fontFamily: _fontFam);
+  static const IconData bx_rewind_1 =
+      const IconData(0xef29, fontFamily: _fontFam);
+  static const IconData bx_rewind_circle_1 =
+      const IconData(0xef2a, fontFamily: _fontFam);
+  static const IconData bx_right_arrow_1 =
+      const IconData(0xef2b, fontFamily: _fontFam);
+  static const IconData bx_right_arrow_alt_1 =
+      const IconData(0xef2c, fontFamily: _fontFam);
+  static const IconData bx_right_arrow_circle_1 =
+      const IconData(0xef2d, fontFamily: _fontFam);
+  static const IconData bx_right_down_arrow_circle_1 =
+      const IconData(0xef2e, fontFamily: _fontFam);
+  static const IconData bx_right_indent_1 =
+      const IconData(0xef2f, fontFamily: _fontFam);
+  static const IconData bx_right_top_arrow_circle_1 =
+      const IconData(0xef30, fontFamily: _fontFam);
+  static const IconData bx_rocket_1 =
+      const IconData(0xef31, fontFamily: _fontFam);
+  static const IconData bx_rotate_left_1 =
+      const IconData(0xef32, fontFamily: _fontFam);
+  static const IconData bx_rotate_right_1 =
+      const IconData(0xef33, fontFamily: _fontFam);
+  static const IconData bx_rss_1 = const IconData(0xef34, fontFamily: _fontFam);
+  static const IconData bx_ruble_1 =
+      const IconData(0xef35, fontFamily: _fontFam);
+  static const IconData bx_ruler_1 =
+      const IconData(0xef36, fontFamily: _fontFam);
+  static const IconData bx_run_1 = const IconData(0xef37, fontFamily: _fontFam);
+  static const IconData bx_rupee_1 =
+      const IconData(0xef38, fontFamily: _fontFam);
+  static const IconData bx_sad_1 = const IconData(0xef39, fontFamily: _fontFam);
+  static const IconData bx_save_1 =
+      const IconData(0xef3a, fontFamily: _fontFam);
+  static const IconData bx_scan_1 =
+      const IconData(0xef3b, fontFamily: _fontFam);
+  static const IconData bx_screenshot_1 =
+      const IconData(0xef3c, fontFamily: _fontFam);
+  static const IconData bx_search_1 =
+      const IconData(0xef3d, fontFamily: _fontFam);
+  static const IconData bx_search_alt_1 =
+      const IconData(0xef3e, fontFamily: _fontFam);
+  static const IconData bx_search_alt_3 =
+      const IconData(0xef3f, fontFamily: _fontFam);
+  static const IconData bx_selection_1 =
+      const IconData(0xef40, fontFamily: _fontFam);
+  static const IconData bx_select_multiple_1 =
+      const IconData(0xef41, fontFamily: _fontFam);
+  static const IconData bx_send_1 =
+      const IconData(0xef42, fontFamily: _fontFam);
+  static const IconData bx_server_1 =
+      const IconData(0xef43, fontFamily: _fontFam);
+  static const IconData bx_shape_circle_1 =
+      const IconData(0xef44, fontFamily: _fontFam);
+  static const IconData bx_shape_square_1 =
+      const IconData(0xef45, fontFamily: _fontFam);
+  static const IconData bx_shape_triangle_1 =
+      const IconData(0xef46, fontFamily: _fontFam);
+  static const IconData bx_share_1 =
+      const IconData(0xef47, fontFamily: _fontFam);
+  static const IconData bx_share_alt_1 =
+      const IconData(0xef48, fontFamily: _fontFam);
+  static const IconData bx_shekel_1 =
+      const IconData(0xef49, fontFamily: _fontFam);
+  static const IconData bx_shield_1 =
+      const IconData(0xef4a, fontFamily: _fontFam);
+  static const IconData bx_shield_alt_1 =
+      const IconData(0xef4b, fontFamily: _fontFam);
+  static const IconData bx_shield_alt_3 =
+      const IconData(0xef4c, fontFamily: _fontFam);
+  static const IconData bx_shield_quarter_1 =
+      const IconData(0xef4d, fontFamily: _fontFam);
+  static const IconData bx_shocked_1 =
+      const IconData(0xef4e, fontFamily: _fontFam);
+  static const IconData bx_shopping_bag_1 =
+      const IconData(0xef4f, fontFamily: _fontFam);
+  static const IconData bx_show_1 =
+      const IconData(0xef50, fontFamily: _fontFam);
+  static const IconData bx_show_alt_1 =
+      const IconData(0xef51, fontFamily: _fontFam);
+  static const IconData bx_shuffle_1 =
+      const IconData(0xef52, fontFamily: _fontFam);
+  static const IconData bx_sidebar_1 =
+      const IconData(0xef53, fontFamily: _fontFam);
+  static const IconData bx_sitemap_1 =
+      const IconData(0xef54, fontFamily: _fontFam);
+  static const IconData bx_skip_next_1 =
+      const IconData(0xef55, fontFamily: _fontFam);
+  static const IconData bx_skip_next_circle_1 =
+      const IconData(0xef56, fontFamily: _fontFam);
+  static const IconData bx_skip_previous_1 =
+      const IconData(0xef57, fontFamily: _fontFam);
+  static const IconData bx_skip_previous_circle_1 =
+      const IconData(0xef58, fontFamily: _fontFam);
+  static const IconData bx_sleepy_1 =
+      const IconData(0xef59, fontFamily: _fontFam);
+  static const IconData bx_slider_1 =
+      const IconData(0xef5a, fontFamily: _fontFam);
+  static const IconData bx_slider_alt_1 =
+      const IconData(0xef5b, fontFamily: _fontFam);
+  static const IconData bx_slideshow_1 =
+      const IconData(0xef5c, fontFamily: _fontFam);
+  static const IconData bx_smile_1 =
+      const IconData(0xef5d, fontFamily: _fontFam);
+  static const IconData bx_sort_1 =
+      const IconData(0xef5e, fontFamily: _fontFam);
+  static const IconData bx_sort_a_z_1 =
+      const IconData(0xef5f, fontFamily: _fontFam);
+  static const IconData bx_sort_down_1 =
+      const IconData(0xef60, fontFamily: _fontFam);
+  static const IconData bx_sort_up_1 =
+      const IconData(0xef61, fontFamily: _fontFam);
+  static const IconData bx_sort_z_a_1 =
+      const IconData(0xef62, fontFamily: _fontFam);
+  static const IconData bx_spa_1 = const IconData(0xef63, fontFamily: _fontFam);
+  static const IconData bx_space_bar_1 =
+      const IconData(0xef64, fontFamily: _fontFam);
+  static const IconData bx_spray_can_1 =
+      const IconData(0xef65, fontFamily: _fontFam);
+  static const IconData bx_spreadsheet_1 =
+      const IconData(0xef66, fontFamily: _fontFam);
+  static const IconData bx_square_1 =
+      const IconData(0xef67, fontFamily: _fontFam);
+  static const IconData bx_square_rounded_1 =
+      const IconData(0xef68, fontFamily: _fontFam);
+  static const IconData bx_star_1 =
+      const IconData(0xef69, fontFamily: _fontFam);
+  static const IconData bx_station_1 =
+      const IconData(0xef6a, fontFamily: _fontFam);
+  static const IconData bx_stats_1 =
+      const IconData(0xef6b, fontFamily: _fontFam);
+  static const IconData bx_sticker_1 =
+      const IconData(0xef6c, fontFamily: _fontFam);
+  static const IconData bx_stop_1 =
+      const IconData(0xef6d, fontFamily: _fontFam);
+  static const IconData bx_stop_circle_1 =
+      const IconData(0xef6e, fontFamily: _fontFam);
+  static const IconData bx_stopwatch_1 =
+      const IconData(0xef6f, fontFamily: _fontFam);
+  static const IconData bx_store_1 =
+      const IconData(0xef70, fontFamily: _fontFam);
+  static const IconData bx_store_alt_1 =
+      const IconData(0xef71, fontFamily: _fontFam);
+  static const IconData bx_street_view_1 =
+      const IconData(0xef72, fontFamily: _fontFam);
+  static const IconData bx_strikethrough_1 =
+      const IconData(0xef73, fontFamily: _fontFam);
+  static const IconData bx_subdirectory_left_1 =
+      const IconData(0xef74, fontFamily: _fontFam);
+  static const IconData bx_subdirectory_right_1 =
+      const IconData(0xef75, fontFamily: _fontFam);
+  static const IconData bx_sun_1 = const IconData(0xef76, fontFamily: _fontFam);
+  static const IconData bx_support_1 =
+      const IconData(0xef77, fontFamily: _fontFam);
+  static const IconData bx_swim_1 =
+      const IconData(0xef78, fontFamily: _fontFam);
+  static const IconData bx_sync_1 =
+      const IconData(0xef79, fontFamily: _fontFam);
+  static const IconData bx_tab_1 = const IconData(0xef7a, fontFamily: _fontFam);
+  static const IconData bx_table_1 =
+      const IconData(0xef7b, fontFamily: _fontFam);
+  static const IconData bx_tachometer_1 =
+      const IconData(0xef7c, fontFamily: _fontFam);
+  static const IconData bx_tag_1 = const IconData(0xef7d, fontFamily: _fontFam);
+  static const IconData bx_target_lock_1 =
+      const IconData(0xef7e, fontFamily: _fontFam);
+  static const IconData bx_task_1 =
+      const IconData(0xef7f, fontFamily: _fontFam);
+  static const IconData bx_taxi_1 =
+      const IconData(0xef80, fontFamily: _fontFam);
+  static const IconData bx_tennis_ball_1 =
+      const IconData(0xef81, fontFamily: _fontFam);
+  static const IconData bx_terminal_1 =
+      const IconData(0xef82, fontFamily: _fontFam);
+  static const IconData bx_test_tube_1 =
+      const IconData(0xef83, fontFamily: _fontFam);
+  static const IconData bx_text_1 =
+      const IconData(0xef84, fontFamily: _fontFam);
+  static const IconData bx_time_1 =
+      const IconData(0xef85, fontFamily: _fontFam);
+  static const IconData bx_time_five_1 =
+      const IconData(0xef86, fontFamily: _fontFam);
+  static const IconData bx_timer_1 =
+      const IconData(0xef87, fontFamily: _fontFam);
+  static const IconData bx_tired_1 =
+      const IconData(0xef88, fontFamily: _fontFam);
+  static const IconData bx_toggle_left_1 =
+      const IconData(0xef89, fontFamily: _fontFam);
+  static const IconData bx_toggle_right_1 =
+      const IconData(0xef8a, fontFamily: _fontFam);
+  static const IconData bx_tone_1 =
+      const IconData(0xef8b, fontFamily: _fontFam);
+  static const IconData bx_traffic_cone_1 =
+      const IconData(0xef8c, fontFamily: _fontFam);
+  static const IconData bx_train_1 =
+      const IconData(0xef8d, fontFamily: _fontFam);
+  static const IconData bx_transfer_1 =
+      const IconData(0xef8e, fontFamily: _fontFam);
+  static const IconData bx_transfer_alt_1 =
+      const IconData(0xef8f, fontFamily: _fontFam);
+  static const IconData bx_trash_1 =
+      const IconData(0xef90, fontFamily: _fontFam);
+  static const IconData bx_trash_alt_1 =
+      const IconData(0xef91, fontFamily: _fontFam);
+  static const IconData bx_trending_down_1 =
+      const IconData(0xef92, fontFamily: _fontFam);
+  static const IconData bx_trending_up_1 =
+      const IconData(0xef93, fontFamily: _fontFam);
+  static const IconData bx_trophy_1 =
+      const IconData(0xef94, fontFamily: _fontFam);
+  static const IconData bx_tv_1 = const IconData(0xef95, fontFamily: _fontFam);
+  static const IconData bx_underline_1 =
+      const IconData(0xef96, fontFamily: _fontFam);
+  static const IconData bx_undo_1 =
+      const IconData(0xef97, fontFamily: _fontFam);
+  static const IconData bx_unlink_1 =
+      const IconData(0xef98, fontFamily: _fontFam);
+  static const IconData bx_up_arrow_1 =
+      const IconData(0xef99, fontFamily: _fontFam);
+  static const IconData bx_up_arrow_alt_1 =
+      const IconData(0xef9a, fontFamily: _fontFam);
+  static const IconData bx_up_arrow_circle_1 =
+      const IconData(0xef9b, fontFamily: _fontFam);
+  static const IconData bx_upload_1 =
+      const IconData(0xef9c, fontFamily: _fontFam);
+  static const IconData bx_upside_down_1 =
+      const IconData(0xef9d, fontFamily: _fontFam);
+  static const IconData bx_upvote_1 =
+      const IconData(0xef9e, fontFamily: _fontFam);
+  static const IconData bx_usb_1 = const IconData(0xef9f, fontFamily: _fontFam);
+  static const IconData bx_user_1 =
+      const IconData(0xefa0, fontFamily: _fontFam);
+  static const IconData bx_user_check_1 =
+      const IconData(0xefa1, fontFamily: _fontFam);
+  static const IconData bx_user_circle_1 =
+      const IconData(0xefa2, fontFamily: _fontFam);
+  static const IconData bx_user_minus_1 =
+      const IconData(0xefa3, fontFamily: _fontFam);
+  static const IconData bx_user_pin_1 =
+      const IconData(0xefa4, fontFamily: _fontFam);
+  static const IconData bx_user_plus_1 =
+      const IconData(0xefa5, fontFamily: _fontFam);
+  static const IconData bx_user_voice_1 =
+      const IconData(0xefa6, fontFamily: _fontFam);
+  static const IconData bx_user_x_1 =
+      const IconData(0xefa7, fontFamily: _fontFam);
+  static const IconData bx_vertical_center_1 =
+      const IconData(0xefa8, fontFamily: _fontFam);
+  static const IconData bx_video_1 =
+      const IconData(0xefa9, fontFamily: _fontFam);
+  static const IconData bx_video_off_1 =
+      const IconData(0xefaa, fontFamily: _fontFam);
+  static const IconData bx_video_plus_1 =
+      const IconData(0xefab, fontFamily: _fontFam);
+  static const IconData bx_video_recording_1 =
+      const IconData(0xefac, fontFamily: _fontFam);
+  static const IconData bx_voicemail_1 =
+      const IconData(0xefad, fontFamily: _fontFam);
+  static const IconData bx_volume_1 =
+      const IconData(0xefae, fontFamily: _fontFam);
+  static const IconData bx_volume_full_1 =
+      const IconData(0xefaf, fontFamily: _fontFam);
+  static const IconData bx_volume_low_1 =
+      const IconData(0xefb0, fontFamily: _fontFam);
+  static const IconData bx_volume_mute_1 =
+      const IconData(0xefb1, fontFamily: _fontFam);
+  static const IconData bx_walk_1 =
+      const IconData(0xefb2, fontFamily: _fontFam);
+  static const IconData bx_wallet_1 =
+      const IconData(0xefb3, fontFamily: _fontFam);
+  static const IconData bx_wallet_alt_1 =
+      const IconData(0xefb4, fontFamily: _fontFam);
+  static const IconData bx_water_1 =
+      const IconData(0xefb5, fontFamily: _fontFam);
+  static const IconData bx_webcam_1 =
+      const IconData(0xefb6, fontFamily: _fontFam);
+  static const IconData bx_wifi_3 =
+      const IconData(0xefb7, fontFamily: _fontFam);
+  static const IconData bx_wifi_4 =
+      const IconData(0xefb8, fontFamily: _fontFam);
+  static const IconData bx_wifi_5 =
+      const IconData(0xefb9, fontFamily: _fontFam);
+  static const IconData bx_wifi_6 =
+      const IconData(0xefba, fontFamily: _fontFam);
+  static const IconData bx_wifi_off_1 =
+      const IconData(0xefbb, fontFamily: _fontFam);
+  static const IconData bx_wind_1 =
+      const IconData(0xefbc, fontFamily: _fontFam);
+  static const IconData bx_window_1 =
+      const IconData(0xefbd, fontFamily: _fontFam);
+  static const IconData bx_window_close_1 =
+      const IconData(0xefbe, fontFamily: _fontFam);
+  static const IconData bx_window_open_1 =
+      const IconData(0xefbf, fontFamily: _fontFam);
+  static const IconData bx_windows_1 =
+      const IconData(0xefc0, fontFamily: _fontFam);
+  static const IconData bx_wink_smile_1 =
+      const IconData(0xefc1, fontFamily: _fontFam);
+  static const IconData bx_wink_tongue_1 =
+      const IconData(0xefc2, fontFamily: _fontFam);
+  static const IconData bx_won_1 = const IconData(0xefc3, fontFamily: _fontFam);
+  static const IconData bx_world_1 =
+      const IconData(0xefc4, fontFamily: _fontFam);
+  static const IconData bx_wrench_1 =
+      const IconData(0xefc5, fontFamily: _fontFam);
+  static const IconData bx_x_1 = const IconData(0xefc6, fontFamily: _fontFam);
+  static const IconData bx_x_circle_1 =
+      const IconData(0xefc7, fontFamily: _fontFam);
+  static const IconData bx_yen_1 = const IconData(0xefc8, fontFamily: _fontFam);
+  static const IconData bx_zoom_in_1 =
+      const IconData(0xefc9, fontFamily: _fontFam);
+  static const IconData bx_zoom_out_1 =
+      const IconData(0xefca, fontFamily: _fontFam);
+  static const IconData bxs_add_to_queue_1 =
+      const IconData(0xefcb, fontFamily: _fontFam);
+  static const IconData bxs_adjust_1 =
+      const IconData(0xefcc, fontFamily: _fontFam);
+  static const IconData bxs_adjust_alt_1 =
+      const IconData(0xefcd, fontFamily: _fontFam);
+  static const IconData bxs_alarm_1 =
+      const IconData(0xefce, fontFamily: _fontFam);
+  static const IconData bxs_alarm_add_1 =
+      const IconData(0xefcf, fontFamily: _fontFam);
+  static const IconData bxs_alarm_off_1 =
+      const IconData(0xefd0, fontFamily: _fontFam);
+  static const IconData bxs_album_1 =
+      const IconData(0xefd1, fontFamily: _fontFam);
+  static const IconData bxs_ambulance_1 =
+      const IconData(0xefd2, fontFamily: _fontFam);
+  static const IconData bxs_analyse_1 =
+      const IconData(0xefd3, fontFamily: _fontFam);
+  static const IconData bxs_angry_1 =
+      const IconData(0xefd4, fontFamily: _fontFam);
+  static const IconData bxs_arch_1 =
+      const IconData(0xefd5, fontFamily: _fontFam);
+  static const IconData bxs_archive_1 =
+      const IconData(0xefd6, fontFamily: _fontFam);
+  static const IconData bxs_archive_in_1 =
+      const IconData(0xefd7, fontFamily: _fontFam);
+  static const IconData bxs_archive_out_1 =
+      const IconData(0xefd8, fontFamily: _fontFam);
+  static const IconData bxs_area_1 =
+      const IconData(0xefd9, fontFamily: _fontFam);
+  static const IconData bxs_arrow_from_bottom_1 =
+      const IconData(0xefda, fontFamily: _fontFam);
+  static const IconData bxs_arrow_from_left_1 =
+      const IconData(0xefdb, fontFamily: _fontFam);
+  static const IconData bxs_arrow_from_right_1 =
+      const IconData(0xefdc, fontFamily: _fontFam);
+  static const IconData bxs_arrow_from_top_1 =
+      const IconData(0xefdd, fontFamily: _fontFam);
+  static const IconData bxs_arrow_to_bottom_1 =
+      const IconData(0xefde, fontFamily: _fontFam);
+  static const IconData bxs_arrow_to_left_1 =
+      const IconData(0xefdf, fontFamily: _fontFam);
+  static const IconData bxs_arrow_to_right_1 =
+      const IconData(0xefe0, fontFamily: _fontFam);
+  static const IconData bxs_arrow_to_top_1 =
+      const IconData(0xefe1, fontFamily: _fontFam);
+  static const IconData bxs_award_1 =
+      const IconData(0xefe2, fontFamily: _fontFam);
+  static const IconData bxs_baby_carriage_1 =
+      const IconData(0xefe3, fontFamily: _fontFam);
+  static const IconData bxs_badge_1 =
+      const IconData(0xefe4, fontFamily: _fontFam);
+  static const IconData bxs_badge_check_1 =
+      const IconData(0xefe5, fontFamily: _fontFam);
+  static const IconData bxs_badge_dollar_1 =
+      const IconData(0xefe6, fontFamily: _fontFam);
+  static const IconData bxs_ball_1 =
+      const IconData(0xefe7, fontFamily: _fontFam);
+  static const IconData bxs_band_aid_1 =
+      const IconData(0xefe8, fontFamily: _fontFam);
+  static const IconData bxs_bank_1 =
+      const IconData(0xefe9, fontFamily: _fontFam);
+  static const IconData bxs_bar_chart_alt_1 =
+      const IconData(0xefea, fontFamily: _fontFam);
+  static const IconData bxs_bar_chart_square_1 =
+      const IconData(0xefeb, fontFamily: _fontFam);
+  static const IconData bxs_barcode_1 =
+      const IconData(0xefec, fontFamily: _fontFam);
+  static const IconData bxs_basket_1 =
+      const IconData(0xefed, fontFamily: _fontFam);
+  static const IconData bxs_bath_1 =
+      const IconData(0xefee, fontFamily: _fontFam);
+  static const IconData bxs_battery_1 =
+      const IconData(0xefef, fontFamily: _fontFam);
+  static const IconData bxs_battery_charging_1 =
+      const IconData(0xeff0, fontFamily: _fontFam);
+  static const IconData bxs_battery_full_1 =
+      const IconData(0xeff1, fontFamily: _fontFam);
+  static const IconData bxs_battery_low_1 =
+      const IconData(0xeff2, fontFamily: _fontFam);
+  static const IconData bxs_bed_1 =
+      const IconData(0xeff3, fontFamily: _fontFam);
+  static const IconData bxs_been_here_1 =
+      const IconData(0xeff4, fontFamily: _fontFam);
+  static const IconData bxs_beer_1 =
+      const IconData(0xeff5, fontFamily: _fontFam);
+  static const IconData bxs_bell_1 =
+      const IconData(0xeff6, fontFamily: _fontFam);
+  static const IconData bxs_bell_minus_1 =
+      const IconData(0xeff7, fontFamily: _fontFam);
+  static const IconData bxs_bell_off_1 =
+      const IconData(0xeff8, fontFamily: _fontFam);
+  static const IconData bxs_bell_plus_1 =
+      const IconData(0xeff9, fontFamily: _fontFam);
+  static const IconData bxs_bell_ring_1 =
+      const IconData(0xeffa, fontFamily: _fontFam);
+  static const IconData bxs_bible_1 =
+      const IconData(0xeffb, fontFamily: _fontFam);
+  static const IconData bxs_bolt_1 =
+      const IconData(0xeffc, fontFamily: _fontFam);
+  static const IconData bxs_bolt_circle_1 =
+      const IconData(0xeffd, fontFamily: _fontFam);
+  static const IconData bxs_bomb_1 =
+      const IconData(0xeffe, fontFamily: _fontFam);
+  static const IconData bxs_book_1 =
+      const IconData(0xefff, fontFamily: _fontFam);
+  static const IconData bxs_book_bookmark_1 =
+      const IconData(0xf000, fontFamily: _fontFam);
+  static const IconData bxs_book_content_1 =
+      const IconData(0xf001, fontFamily: _fontFam);
+  static const IconData bxs_bookmark_1 =
+      const IconData(0xf002, fontFamily: _fontFam);
+  static const IconData bxs_bookmark_minus_1 =
+      const IconData(0xf003, fontFamily: _fontFam);
+  static const IconData bxs_bookmark_plus_1 =
+      const IconData(0xf004, fontFamily: _fontFam);
+  static const IconData bxs_bookmarks_1 =
+      const IconData(0xf005, fontFamily: _fontFam);
+  static const IconData bxs_bookmark_star_1 =
+      const IconData(0xf006, fontFamily: _fontFam);
+  static const IconData bxs_book_open_1 =
+      const IconData(0xf007, fontFamily: _fontFam);
+  static const IconData bxs_book_reader_1 =
+      const IconData(0xf008, fontFamily: _fontFam);
+  static const IconData bxs_bot_1 =
+      const IconData(0xf009, fontFamily: _fontFam);
+  static const IconData bxs_bowling_ball_1 =
+      const IconData(0xf00a, fontFamily: _fontFam);
+  static const IconData bxs_box_1 =
+      const IconData(0xf00b, fontFamily: _fontFam);
+  static const IconData bxs_briefcase_1 =
+      const IconData(0xf00c, fontFamily: _fontFam);
+  static const IconData bxs_briefcase_alt_1 =
+      const IconData(0xf00d, fontFamily: _fontFam);
+  static const IconData bxs_briefcase_alt_3 =
+      const IconData(0xf00e, fontFamily: _fontFam);
+  static const IconData bxs_brightness_1 =
+      const IconData(0xf00f, fontFamily: _fontFam);
+  static const IconData bxs_brightness_half_1 =
+      const IconData(0xf010, fontFamily: _fontFam);
+  static const IconData bxs_brush_1 =
+      const IconData(0xf011, fontFamily: _fontFam);
+  static const IconData bxs_brush_alt_1 =
+      const IconData(0xf012, fontFamily: _fontFam);
+  static const IconData bxs_bug_1 =
+      const IconData(0xf013, fontFamily: _fontFam);
+  static const IconData bxs_bug_alt_1 =
+      const IconData(0xf014, fontFamily: _fontFam);
+  static const IconData bxs_building_1 =
+      const IconData(0xf015, fontFamily: _fontFam);
+  static const IconData bxs_building_house_1 =
+      const IconData(0xf016, fontFamily: _fontFam);
+  static const IconData bxs_buildings_1 =
+      const IconData(0xf017, fontFamily: _fontFam);
+  static const IconData bxs_bulb_1 =
+      const IconData(0xf018, fontFamily: _fontFam);
+  static const IconData bxs_buoy_1 =
+      const IconData(0xf019, fontFamily: _fontFam);
+  static const IconData bxs_bus_1 =
+      const IconData(0xf01a, fontFamily: _fontFam);
+  static const IconData bxs_business_1 =
+      const IconData(0xf01b, fontFamily: _fontFam);
+  static const IconData bxs_bus_school_1 =
+      const IconData(0xf01c, fontFamily: _fontFam);
+  static const IconData bxs_cabinet_1 =
+      const IconData(0xf01d, fontFamily: _fontFam);
+  static const IconData bxs_cake_1 =
+      const IconData(0xf01e, fontFamily: _fontFam);
+  static const IconData bxs_calculator_1 =
+      const IconData(0xf01f, fontFamily: _fontFam);
+  static const IconData bxs_calendar_1 =
+      const IconData(0xf020, fontFamily: _fontFam);
+  static const IconData bxs_calendar_alt_1 =
+      const IconData(0xf021, fontFamily: _fontFam);
+  static const IconData bxs_calendar_check_1 =
+      const IconData(0xf022, fontFamily: _fontFam);
+  static const IconData bxs_calendar_edit_1 =
+      const IconData(0xf023, fontFamily: _fontFam);
+  static const IconData bxs_calendar_event_1 =
+      const IconData(0xf024, fontFamily: _fontFam);
+  static const IconData bxs_calendar_minus_1 =
+      const IconData(0xf025, fontFamily: _fontFam);
+  static const IconData bxs_calendar_plus_1 =
+      const IconData(0xf026, fontFamily: _fontFam);
+  static const IconData bxs_calendar_week_1 =
+      const IconData(0xf027, fontFamily: _fontFam);
+  static const IconData bxs_calendar_x_1 =
+      const IconData(0xf028, fontFamily: _fontFam);
+  static const IconData bxs_camera_1 =
+      const IconData(0xf029, fontFamily: _fontFam);
+  static const IconData bxs_camera_off_1 =
+      const IconData(0xf02a, fontFamily: _fontFam);
+  static const IconData bxs_camera_plus_1 =
+      const IconData(0xf02b, fontFamily: _fontFam);
+  static const IconData bxs_capsule_1 =
+      const IconData(0xf02c, fontFamily: _fontFam);
+  static const IconData bxs_captions_1 =
+      const IconData(0xf02d, fontFamily: _fontFam);
+  static const IconData bxs_car_1 =
+      const IconData(0xf02e, fontFamily: _fontFam);
+  static const IconData bxs_car_crash_1 =
+      const IconData(0xf02f, fontFamily: _fontFam);
+  static const IconData bxs_card_1 =
+      const IconData(0xf030, fontFamily: _fontFam);
+  static const IconData bxs_caret_down_circle_1 =
+      const IconData(0xf031, fontFamily: _fontFam);
+  static const IconData bxs_caret_left_circle_1 =
+      const IconData(0xf032, fontFamily: _fontFam);
+  static const IconData bxs_caret_right_circle_1 =
+      const IconData(0xf033, fontFamily: _fontFam);
+  static const IconData bxs_caret_up_circle_1 =
+      const IconData(0xf034, fontFamily: _fontFam);
+  static const IconData bxs_car_garage_1 =
+      const IconData(0xf035, fontFamily: _fontFam);
+  static const IconData bxs_car_mechanic_1 =
+      const IconData(0xf036, fontFamily: _fontFam);
+  static const IconData bxs_carousel_1 =
+      const IconData(0xf037, fontFamily: _fontFam);
+  static const IconData bxs_cart_1 =
+      const IconData(0xf038, fontFamily: _fontFam);
+  static const IconData bxs_cart_alt_1 =
+      const IconData(0xf039, fontFamily: _fontFam);
+  static const IconData bxs_car_wash_1 =
+      const IconData(0xf03a, fontFamily: _fontFam);
+  static const IconData bxs_certification_1 =
+      const IconData(0xf03b, fontFamily: _fontFam);
+  static const IconData bxs_chalkboard_1 =
+      const IconData(0xf03c, fontFamily: _fontFam);
+  static const IconData bxs_chart_1 =
+      const IconData(0xf03d, fontFamily: _fontFam);
+  static const IconData bxs_chat_1 =
+      const IconData(0xf03e, fontFamily: _fontFam);
+  static const IconData bxs_checkbox_1 =
+      const IconData(0xf03f, fontFamily: _fontFam);
+  static const IconData bxs_checkbox_checked_1 =
+      const IconData(0xf040, fontFamily: _fontFam);
+  static const IconData bxs_check_circle_1 =
+      const IconData(0xf041, fontFamily: _fontFam);
+  static const IconData bxs_check_shield_1 =
+      const IconData(0xf042, fontFamily: _fontFam);
+  static const IconData bxs_check_square_1 =
+      const IconData(0xf043, fontFamily: _fontFam);
+  static const IconData bxs_chess_1 =
+      const IconData(0xf044, fontFamily: _fontFam);
+  static const IconData bxs_chip_1 =
+      const IconData(0xf045, fontFamily: _fontFam);
+  static const IconData bxs_circle_1 =
+      const IconData(0xf046, fontFamily: _fontFam);
+  static const IconData bxs_city_1 =
+      const IconData(0xf047, fontFamily: _fontFam);
+  static const IconData bxs_clinic_1 =
+      const IconData(0xf048, fontFamily: _fontFam);
+  static const IconData bxs_cloud_1 =
+      const IconData(0xf049, fontFamily: _fontFam);
+  static const IconData bxs_cloud_download_1 =
+      const IconData(0xf04a, fontFamily: _fontFam);
+  static const IconData bxs_cloud_lightning_1 =
+      const IconData(0xf04b, fontFamily: _fontFam);
+  static const IconData bxs_cloud_rain_1 =
+      const IconData(0xf04c, fontFamily: _fontFam);
+  static const IconData bxs_cloud_upload_1 =
+      const IconData(0xf04d, fontFamily: _fontFam);
+  static const IconData bxs_coffee_1 =
+      const IconData(0xf04e, fontFamily: _fontFam);
+  static const IconData bxs_coffee_alt_1 =
+      const IconData(0xf04f, fontFamily: _fontFam);
+  static const IconData bxs_coffee_togo_1 =
+      const IconData(0xf050, fontFamily: _fontFam);
+  static const IconData bxs_cog_1 =
+      const IconData(0xf051, fontFamily: _fontFam);
+  static const IconData bxs_collection_1 =
+      const IconData(0xf052, fontFamily: _fontFam);
+  static const IconData bxs_color_fill_1 =
+      const IconData(0xf053, fontFamily: _fontFam);
+  static const IconData bxs_comment_1 =
+      const IconData(0xf054, fontFamily: _fontFam);
+  static const IconData bxs_comment_add_1 =
+      const IconData(0xf055, fontFamily: _fontFam);
+  static const IconData bxs_comment_detail_1 =
+      const IconData(0xf056, fontFamily: _fontFam);
+  static const IconData bxs_comment_dots_1 =
+      const IconData(0xf057, fontFamily: _fontFam);
+  static const IconData bxs_comment_error_1 =
+      const IconData(0xf058, fontFamily: _fontFam);
+  static const IconData bxs_compass_1 =
+      const IconData(0xf059, fontFamily: _fontFam);
+  static const IconData bxs_component_1 =
+      const IconData(0xf05a, fontFamily: _fontFam);
+  static const IconData bxs_confused_1 =
+      const IconData(0xf05b, fontFamily: _fontFam);
+  static const IconData bxs_contact_1 =
+      const IconData(0xf05c, fontFamily: _fontFam);
+  static const IconData bxs_conversation_1 =
+      const IconData(0xf05d, fontFamily: _fontFam);
+  static const IconData bxs_cool_1 =
+      const IconData(0xf05e, fontFamily: _fontFam);
+  static const IconData bxs_copy_1 =
+      const IconData(0xf05f, fontFamily: _fontFam);
+  static const IconData bxs_copy_alt_1 =
+      const IconData(0xf060, fontFamily: _fontFam);
+  static const IconData bxs_coupon_1 =
+      const IconData(0xf061, fontFamily: _fontFam);
+  static const IconData bxs_credit_card_1 =
+      const IconData(0xf062, fontFamily: _fontFam);
+  static const IconData bxs_credit_card_alt_1 =
+      const IconData(0xf063, fontFamily: _fontFam);
+  static const IconData bxs_crown_1 =
+      const IconData(0xf064, fontFamily: _fontFam);
+  static const IconData bxs_cube_1 =
+      const IconData(0xf065, fontFamily: _fontFam);
+  static const IconData bxs_cube_alt_1 =
+      const IconData(0xf066, fontFamily: _fontFam);
+  static const IconData bxs_cuboid_1 =
+      const IconData(0xf067, fontFamily: _fontFam);
+  static const IconData bxs_customize_1 =
+      const IconData(0xf068, fontFamily: _fontFam);
+  static const IconData bxs_cylinder_1 =
+      const IconData(0xf069, fontFamily: _fontFam);
+  static const IconData bxs_dashboard_1 =
+      const IconData(0xf06a, fontFamily: _fontFam);
+  static const IconData bxs_data_1 =
+      const IconData(0xf06b, fontFamily: _fontFam);
+  static const IconData bxs_detail_1 =
+      const IconData(0xf06c, fontFamily: _fontFam);
+  static const IconData bxs_devices_1 =
+      const IconData(0xf06d, fontFamily: _fontFam);
+  static const IconData bxs_dice_7 =
+      const IconData(0xf06e, fontFamily: _fontFam);
+  static const IconData bxs_dice_8 =
+      const IconData(0xf06f, fontFamily: _fontFam);
+  static const IconData bxs_dice_9 =
+      const IconData(0xf070, fontFamily: _fontFam);
+  static const IconData bxs_dice_10 =
+      const IconData(0xf071, fontFamily: _fontFam);
+  static const IconData bxs_dice_11 =
+      const IconData(0xf072, fontFamily: _fontFam);
+  static const IconData bxs_dice_12 =
+      const IconData(0xf073, fontFamily: _fontFam);
+  static const IconData bxs_direction_left_1 =
+      const IconData(0xf074, fontFamily: _fontFam);
+  static const IconData bxs_direction_right_1 =
+      const IconData(0xf075, fontFamily: _fontFam);
+  static const IconData bxs_directions_1 =
+      const IconData(0xf076, fontFamily: _fontFam);
+  static const IconData bxs_disc_1 =
+      const IconData(0xf077, fontFamily: _fontFam);
+  static const IconData bxs_discount_1 =
+      const IconData(0xf078, fontFamily: _fontFam);
+  static const IconData bxs_dish_1 =
+      const IconData(0xf079, fontFamily: _fontFam);
+  static const IconData bxs_dislike_1 =
+      const IconData(0xf07a, fontFamily: _fontFam);
+  static const IconData bxs_dizzy_1 =
+      const IconData(0xf07b, fontFamily: _fontFam);
+  static const IconData bxs_dock_bottom_1 =
+      const IconData(0xf07c, fontFamily: _fontFam);
+  static const IconData bxs_dock_left_1 =
+      const IconData(0xf07d, fontFamily: _fontFam);
+  static const IconData bxs_dock_right_1 =
+      const IconData(0xf07e, fontFamily: _fontFam);
+  static const IconData bxs_dock_top_1 =
+      const IconData(0xf07f, fontFamily: _fontFam);
+  static const IconData bxs_dollar_circle_1 =
+      const IconData(0xf080, fontFamily: _fontFam);
+  static const IconData bxs_doughnut_chart_1 =
+      const IconData(0xf081, fontFamily: _fontFam);
+  static const IconData bxs_down_arrow_1 =
+      const IconData(0xf082, fontFamily: _fontFam);
+  static const IconData bxs_down_arrow_circle_1 =
+      const IconData(0xf083, fontFamily: _fontFam);
+  static const IconData bxs_down_arrow_square_1 =
+      const IconData(0xf084, fontFamily: _fontFam);
+  static const IconData bxs_download_1 =
+      const IconData(0xf085, fontFamily: _fontFam);
+  static const IconData bxs_downvote_1 =
+      const IconData(0xf086, fontFamily: _fontFam);
+  static const IconData bxs_drink_1 =
+      const IconData(0xf087, fontFamily: _fontFam);
+  static const IconData bxs_droplet_1 =
+      const IconData(0xf088, fontFamily: _fontFam);
+  static const IconData bxs_droplet_half_1 =
+      const IconData(0xf089, fontFamily: _fontFam);
+  static const IconData bxs_dryer_1 =
+      const IconData(0xf08a, fontFamily: _fontFam);
+  static const IconData bxs_duplicate_1 =
+      const IconData(0xf08b, fontFamily: _fontFam);
+  static const IconData bxs_edit_1 =
+      const IconData(0xf08c, fontFamily: _fontFam);
+  static const IconData bxs_edit_alt_1 =
+      const IconData(0xf08d, fontFamily: _fontFam);
+  static const IconData bxs_edit_location_1 =
+      const IconData(0xf08e, fontFamily: _fontFam);
+  static const IconData bxs_eject_1 =
+      const IconData(0xf08f, fontFamily: _fontFam);
+  static const IconData bxs_envelope_1 =
+      const IconData(0xf090, fontFamily: _fontFam);
+  static const IconData bxs_eraser_1 =
+      const IconData(0xf091, fontFamily: _fontFam);
+  static const IconData bxs_error_1 =
+      const IconData(0xf092, fontFamily: _fontFam);
+  static const IconData bxs_error_alt_1 =
+      const IconData(0xf093, fontFamily: _fontFam);
+  static const IconData bxs_error_circle_1 =
+      const IconData(0xf094, fontFamily: _fontFam);
+  static const IconData bxs_ev_station_1 =
+      const IconData(0xf095, fontFamily: _fontFam);
+  static const IconData bxs_exit_1 =
+      const IconData(0xf096, fontFamily: _fontFam);
+  static const IconData bxs_extension_1 =
+      const IconData(0xf097, fontFamily: _fontFam);
+  static const IconData bxs_eyedropper_1 =
+      const IconData(0xf098, fontFamily: _fontFam);
+  static const IconData bxs_face_1 =
+      const IconData(0xf099, fontFamily: _fontFam);
+  static const IconData bxs_factory_1 =
+      const IconData(0xf09a, fontFamily: _fontFam);
+  static const IconData bxs_fast_forward_circle_1 =
+      const IconData(0xf09b, fontFamily: _fontFam);
+  static const IconData bxs_file_1 =
+      const IconData(0xf09c, fontFamily: _fontFam);
+  static const IconData bxs_file_archive_1 =
+      const IconData(0xf09d, fontFamily: _fontFam);
+  static const IconData bxs_file_blank_1 =
+      const IconData(0xf09e, fontFamily: _fontFam);
+  static const IconData bxs_file_css_1 =
+      const IconData(0xf09f, fontFamily: _fontFam);
+  static const IconData bxs_file_doc_1 =
+      const IconData(0xf0a0, fontFamily: _fontFam);
+  static const IconData bxs_file_export_1 =
+      const IconData(0xf0a1, fontFamily: _fontFam);
+  static const IconData bxs_file_find_1 =
+      const IconData(0xf0a2, fontFamily: _fontFam);
+  static const IconData bxs_file_gif_1 =
+      const IconData(0xf0a3, fontFamily: _fontFam);
+  static const IconData bxs_file_html_1 =
+      const IconData(0xf0a4, fontFamily: _fontFam);
+  static const IconData bxs_file_image_1 =
+      const IconData(0xf0a5, fontFamily: _fontFam);
+  static const IconData bxs_file_import_1 =
+      const IconData(0xf0a6, fontFamily: _fontFam);
+  static const IconData bxs_file_jpg_1 =
+      const IconData(0xf0a7, fontFamily: _fontFam);
+  static const IconData bxs_file_js_1 =
+      const IconData(0xf0a8, fontFamily: _fontFam);
+  static const IconData bxs_file_json_1 =
+      const IconData(0xf0a9, fontFamily: _fontFam);
+  static const IconData bxs_file_md_1 =
+      const IconData(0xf0aa, fontFamily: _fontFam);
+  static const IconData bxs_file_pdf_1 =
+      const IconData(0xf0ab, fontFamily: _fontFam);
+  static const IconData bxs_file_plus_1 =
+      const IconData(0xf0ac, fontFamily: _fontFam);
+  static const IconData bxs_file_png_1 =
+      const IconData(0xf0ad, fontFamily: _fontFam);
+  static const IconData bxs_file_txt_1 =
+      const IconData(0xf0ae, fontFamily: _fontFam);
+  static const IconData bxs_film_1 =
+      const IconData(0xf0af, fontFamily: _fontFam);
+  static const IconData bxs_filter_alt_1 =
+      const IconData(0xf0b0, fontFamily: _fontFam);
+  static const IconData bxs_first_aid_1 =
+      const IconData(0xf0b1, fontFamily: _fontFam);
+  static const IconData bxs_flag_1 =
+      const IconData(0xf0b2, fontFamily: _fontFam);
+  static const IconData bxs_flag_alt_1 =
+      const IconData(0xf0b3, fontFamily: _fontFam);
+  static const IconData bxs_flag_checkered_1 =
+      const IconData(0xf0b4, fontFamily: _fontFam);
+  static const IconData bxs_flame_1 =
+      const IconData(0xf0b5, fontFamily: _fontFam);
+  static const IconData bxs_flask_1 =
+      const IconData(0xf0b6, fontFamily: _fontFam);
+  static const IconData bxs_florist_1 =
+      const IconData(0xf0b7, fontFamily: _fontFam);
+  static const IconData bxs_folder_1 =
+      const IconData(0xf0b8, fontFamily: _fontFam);
+  static const IconData bxs_folder_minus_1 =
+      const IconData(0xf0b9, fontFamily: _fontFam);
+  static const IconData bxs_folder_open_1 =
+      const IconData(0xf0ba, fontFamily: _fontFam);
+  static const IconData bxs_folder_plus_1 =
+      const IconData(0xf0bb, fontFamily: _fontFam);
+  static const IconData bxs_food_menu_1 =
+      const IconData(0xf0bc, fontFamily: _fontFam);
+  static const IconData bxs_fridge_1 =
+      const IconData(0xf0bd, fontFamily: _fontFam);
+  static const IconData bxs_gas_pump_1 =
+      const IconData(0xf0be, fontFamily: _fontFam);
+  static const IconData bxs_ghost_1 =
+      const IconData(0xf0bf, fontFamily: _fontFam);
+  static const IconData bxs_gift_1 =
+      const IconData(0xf0c0, fontFamily: _fontFam);
+  static const IconData bxs_graduation_1 =
+      const IconData(0xf0c1, fontFamily: _fontFam);
+  static const IconData bxs_grid_1 =
+      const IconData(0xf0c2, fontFamily: _fontFam);
+  static const IconData bxs_grid_alt_1 =
+      const IconData(0xf0c3, fontFamily: _fontFam);
+  static const IconData bxs_group_1 =
+      const IconData(0xf0c4, fontFamily: _fontFam);
+  static const IconData bxs_hand_down_1 =
+      const IconData(0xf0c5, fontFamily: _fontFam);
+  static const IconData bxs_hand_left_1 =
+      const IconData(0xf0c6, fontFamily: _fontFam);
+  static const IconData bxs_hand_right_1 =
+      const IconData(0xf0c7, fontFamily: _fontFam);
+  static const IconData bxs_hand_up_1 =
+      const IconData(0xf0c8, fontFamily: _fontFam);
+  static const IconData bxs_happy_1 =
+      const IconData(0xf0c9, fontFamily: _fontFam);
+  static const IconData bxs_happy_alt_1 =
+      const IconData(0xf0ca, fontFamily: _fontFam);
+  static const IconData bxs_happy_beaming_1 =
+      const IconData(0xf0cb, fontFamily: _fontFam);
+  static const IconData bxs_happy_heart_eyes_1 =
+      const IconData(0xf0cc, fontFamily: _fontFam);
+  static const IconData bxs_hdd_1 =
+      const IconData(0xf0cd, fontFamily: _fontFam);
+  static const IconData bxs_heart_1 =
+      const IconData(0xf0ce, fontFamily: _fontFam);
+  static const IconData bxs_heart_circle_1 =
+      const IconData(0xf0cf, fontFamily: _fontFam);
+  static const IconData bxs_heart_square_1 =
+      const IconData(0xf0d0, fontFamily: _fontFam);
+  static const IconData bxs_help_circle_1 =
+      const IconData(0xf0d1, fontFamily: _fontFam);
+  static const IconData bxs_hide_1 =
+      const IconData(0xf0d2, fontFamily: _fontFam);
+  static const IconData bxs_home_1 =
+      const IconData(0xf0d3, fontFamily: _fontFam);
+  static const IconData bxs_home_circle_1 =
+      const IconData(0xf0d4, fontFamily: _fontFam);
+  static const IconData bxs_home_heart_1 =
+      const IconData(0xf0d5, fontFamily: _fontFam);
+  static const IconData bxs_hot_1 =
+      const IconData(0xf0d6, fontFamily: _fontFam);
+  static const IconData bxs_hotel_1 =
+      const IconData(0xf0d7, fontFamily: _fontFam);
+  static const IconData bxs_hourglass_1 =
+      const IconData(0xf0d8, fontFamily: _fontFam);
+  static const IconData bxs_hourglass_bottom_1 =
+      const IconData(0xf0d9, fontFamily: _fontFam);
+  static const IconData bxs_hourglass_top_1 =
+      const IconData(0xf0da, fontFamily: _fontFam);
+  static const IconData bxs_id_card_1 =
+      const IconData(0xf0db, fontFamily: _fontFam);
+  static const IconData bxs_image_1 =
+      const IconData(0xf0dc, fontFamily: _fontFam);
+  static const IconData bxs_image_add_1 =
+      const IconData(0xf0dd, fontFamily: _fontFam);
+  static const IconData bxs_image_alt_1 =
+      const IconData(0xf0de, fontFamily: _fontFam);
+  static const IconData bxs_inbox_1 =
+      const IconData(0xf0df, fontFamily: _fontFam);
+  static const IconData bxs_info_circle_1 =
+      const IconData(0xf0e0, fontFamily: _fontFam);
+  static const IconData bxs_info_square_1 =
+      const IconData(0xf0e1, fontFamily: _fontFam);
+  static const IconData bxs_institution_1 =
+      const IconData(0xf0e2, fontFamily: _fontFam);
+  static const IconData bxs_joystick_1 =
+      const IconData(0xf0e3, fontFamily: _fontFam);
+  static const IconData bxs_joystick_alt_1 =
+      const IconData(0xf0e4, fontFamily: _fontFam);
+  static const IconData bxs_joystick_button_1 =
+      const IconData(0xf0e5, fontFamily: _fontFam);
+  static const IconData bxs_key_1 =
+      const IconData(0xf0e6, fontFamily: _fontFam);
+  static const IconData bxs_keyboard_1 =
+      const IconData(0xf0e7, fontFamily: _fontFam);
+  static const IconData bxs_label_1 =
+      const IconData(0xf0e8, fontFamily: _fontFam);
+  static const IconData bxs_landmark_1 =
+      const IconData(0xf0e9, fontFamily: _fontFam);
+  static const IconData bxs_landscape_1 =
+      const IconData(0xf0ea, fontFamily: _fontFam);
+  static const IconData bxs_laugh_1 =
+      const IconData(0xf0eb, fontFamily: _fontFam);
+  static const IconData bxs_layer_1 =
+      const IconData(0xf0ec, fontFamily: _fontFam);
+  static const IconData bxs_layer_minus_1 =
+      const IconData(0xf0ed, fontFamily: _fontFam);
+  static const IconData bxs_layer_plus_1 =
+      const IconData(0xf0ee, fontFamily: _fontFam);
+  static const IconData bxs_layout_1 =
+      const IconData(0xf0ef, fontFamily: _fontFam);
+  static const IconData bxs_left_arrow_1 =
+      const IconData(0xf0f0, fontFamily: _fontFam);
+  static const IconData bxs_left_arrow_circle_1 =
+      const IconData(0xf0f1, fontFamily: _fontFam);
+  static const IconData bxs_left_arrow_square_1 =
+      const IconData(0xf0f2, fontFamily: _fontFam);
+  static const IconData bxs_left_down_arrow_circle_1 =
+      const IconData(0xf0f3, fontFamily: _fontFam);
+  static const IconData bxs_left_top_arrow_circle_1 =
+      const IconData(0xf0f4, fontFamily: _fontFam);
+  static const IconData bxs_like_1 =
+      const IconData(0xf0f5, fontFamily: _fontFam);
+  static const IconData bxs_location_plus_1 =
+      const IconData(0xf0f6, fontFamily: _fontFam);
+  static const IconData bxs_lock_1 =
+      const IconData(0xf0f7, fontFamily: _fontFam);
+  static const IconData bxs_lock_alt_1 =
+      const IconData(0xf0f8, fontFamily: _fontFam);
+  static const IconData bxs_lock_open_1 =
+      const IconData(0xf0f9, fontFamily: _fontFam);
+  static const IconData bxs_lock_open_alt_1 =
+      const IconData(0xf0fa, fontFamily: _fontFam);
+  static const IconData bxs_log_in_1 =
+      const IconData(0xf0fb, fontFamily: _fontFam);
+  static const IconData bxs_log_in_circle_1 =
+      const IconData(0xf0fc, fontFamily: _fontFam);
+  static const IconData bxs_log_out_1 =
+      const IconData(0xf0fd, fontFamily: _fontFam);
+  static const IconData bxs_log_out_circle_1 =
+      const IconData(0xf0fe, fontFamily: _fontFam);
+  static const IconData bxs_low_vision_1 =
+      const IconData(0xf0ff, fontFamily: _fontFam);
+  static const IconData bxs_magic_wand_1 =
+      const IconData(0xf100, fontFamily: _fontFam);
+  static const IconData bxs_magnet_1 =
+      const IconData(0xf101, fontFamily: _fontFam);
+  static const IconData bxs_map_1 =
+      const IconData(0xf102, fontFamily: _fontFam);
+  static const IconData bxs_map_alt_1 =
+      const IconData(0xf103, fontFamily: _fontFam);
+  static const IconData bxs_map_pin_1 =
+      const IconData(0xf104, fontFamily: _fontFam);
+  static const IconData bxs_mask_1 =
+      const IconData(0xf105, fontFamily: _fontFam);
+  static const IconData bxs_megaphone_1 =
+      const IconData(0xf106, fontFamily: _fontFam);
+  static const IconData bxs_meh_1 =
+      const IconData(0xf107, fontFamily: _fontFam);
+  static const IconData bxs_meh_alt_1 =
+      const IconData(0xf108, fontFamily: _fontFam);
+  static const IconData bxs_meh_blank_1 =
+      const IconData(0xf109, fontFamily: _fontFam);
+  static const IconData bxs_memory_card_1 =
+      const IconData(0xf10a, fontFamily: _fontFam);
+  static const IconData bxs_message_1 =
+      const IconData(0xf10b, fontFamily: _fontFam);
+  static const IconData bxs_message_alt_1 =
+      const IconData(0xf10c, fontFamily: _fontFam);
+  static const IconData bxs_message_alt_dots_1 =
+      const IconData(0xf10d, fontFamily: _fontFam);
+  static const IconData bxs_message_dots_1 =
+      const IconData(0xf10e, fontFamily: _fontFam);
+  static const IconData bxs_message_rounded_1 =
+      const IconData(0xf10f, fontFamily: _fontFam);
+  static const IconData bxs_message_rounded_dots_1 =
+      const IconData(0xf110, fontFamily: _fontFam);
+  static const IconData bxs_message_square_1 =
+      const IconData(0xf111, fontFamily: _fontFam);
+  static const IconData bxs_message_square_dots_1 =
+      const IconData(0xf112, fontFamily: _fontFam);
+  static const IconData bxs_microchip_1 =
+      const IconData(0xf113, fontFamily: _fontFam);
+  static const IconData bxs_microphone_1 =
+      const IconData(0xf114, fontFamily: _fontFam);
+  static const IconData bxs_microphone_alt_1 =
+      const IconData(0xf115, fontFamily: _fontFam);
+  static const IconData bxs_microphone_off_1 =
+      const IconData(0xf116, fontFamily: _fontFam);
+  static const IconData bxs_minus_circle_1 =
+      const IconData(0xf117, fontFamily: _fontFam);
+  static const IconData bxs_minus_square_1 =
+      const IconData(0xf118, fontFamily: _fontFam);
+  static const IconData bxs_mobile_1 =
+      const IconData(0xf119, fontFamily: _fontFam);
+  static const IconData bxs_mobile_vibration_1 =
+      const IconData(0xf11a, fontFamily: _fontFam);
+  static const IconData bxs_moon_1 =
+      const IconData(0xf11b, fontFamily: _fontFam);
+  static const IconData bxs_mouse_1 =
+      const IconData(0xf11c, fontFamily: _fontFam);
+  static const IconData bxs_mouse_alt_1 =
+      const IconData(0xf11d, fontFamily: _fontFam);
+  static const IconData bxs_movie_1 =
+      const IconData(0xf11e, fontFamily: _fontFam);
+  static const IconData bxs_music_1 =
+      const IconData(0xf11f, fontFamily: _fontFam);
+  static const IconData bxs_navigation_1 =
+      const IconData(0xf120, fontFamily: _fontFam);
+  static const IconData bxs_news_1 =
+      const IconData(0xf121, fontFamily: _fontFam);
+  static const IconData bxs_no_entry_1 =
+      const IconData(0xf122, fontFamily: _fontFam);
+  static const IconData bxs_note_1 =
+      const IconData(0xf123, fontFamily: _fontFam);
+  static const IconData bxs_notepad_1 =
+      const IconData(0xf124, fontFamily: _fontFam);
+  static const IconData bxs_notification_1 =
+      const IconData(0xf125, fontFamily: _fontFam);
+  static const IconData bxs_notification_off_1 =
+      const IconData(0xf126, fontFamily: _fontFam);
+  static const IconData bxs_offer_1 =
+      const IconData(0xf127, fontFamily: _fontFam);
+  static const IconData bxs_package_1 =
+      const IconData(0xf128, fontFamily: _fontFam);
+  static const IconData bxs_paint_1 =
+      const IconData(0xf129, fontFamily: _fontFam);
+  static const IconData bxs_paint_roll_1 =
+      const IconData(0xf12a, fontFamily: _fontFam);
+  static const IconData bxs_palette_1 =
+      const IconData(0xf12b, fontFamily: _fontFam);
+  static const IconData bxs_paper_plane_1 =
+      const IconData(0xf12c, fontFamily: _fontFam);
+  static const IconData bxs_parking_1 =
+      const IconData(0xf12d, fontFamily: _fontFam);
+  static const IconData bxs_paste_1 =
+      const IconData(0xf12e, fontFamily: _fontFam);
+  static const IconData bxs_pen_1 =
+      const IconData(0xf12f, fontFamily: _fontFam);
+  static const IconData bxs_pencil_1 =
+      const IconData(0xf130, fontFamily: _fontFam);
+  static const IconData bxs_phone_1 =
+      const IconData(0xf131, fontFamily: _fontFam);
+  static const IconData bxs_phone_call_1 =
+      const IconData(0xf132, fontFamily: _fontFam);
+  static const IconData bxs_phone_incoming_1 =
+      const IconData(0xf133, fontFamily: _fontFam);
+  static const IconData bxs_phone_outgoing_1 =
+      const IconData(0xf134, fontFamily: _fontFam);
+  static const IconData bxs_photo_album_1 =
+      const IconData(0xf135, fontFamily: _fontFam);
+  static const IconData bxs_piano_1 =
+      const IconData(0xf136, fontFamily: _fontFam);
+  static const IconData bxs_pie_chart_1 =
+      const IconData(0xf137, fontFamily: _fontFam);
+  static const IconData bxs_pie_chart_alt_1 =
+      const IconData(0xf138, fontFamily: _fontFam);
+  static const IconData bxs_pie_chart_alt_3 =
+      const IconData(0xf139, fontFamily: _fontFam);
+  static const IconData bxs_pin_1 =
+      const IconData(0xf13a, fontFamily: _fontFam);
+  static const IconData bxs_pizza_1 =
+      const IconData(0xf13b, fontFamily: _fontFam);
+  static const IconData bxs_plane_1 =
+      const IconData(0xf13c, fontFamily: _fontFam);
+  static const IconData bxs_plane_alt_1 =
+      const IconData(0xf13d, fontFamily: _fontFam);
+  static const IconData bxs_plane_land_1 =
+      const IconData(0xf13e, fontFamily: _fontFam);
+  static const IconData bxs_planet_1 =
+      const IconData(0xf13f, fontFamily: _fontFam);
+  static const IconData bxs_plane_take_off_1 =
+      const IconData(0xf140, fontFamily: _fontFam);
+  static const IconData bxs_playlist_1 =
+      const IconData(0xf141, fontFamily: _fontFam);
+  static const IconData bxs_plug_1 =
+      const IconData(0xf142, fontFamily: _fontFam);
+  static const IconData bxs_plus_circle_1 =
+      const IconData(0xf143, fontFamily: _fontFam);
+  static const IconData bxs_plus_square_1 =
+      const IconData(0xf144, fontFamily: _fontFam);
+  static const IconData bxs_pointer_1 =
+      const IconData(0xf145, fontFamily: _fontFam);
+  static const IconData bxs_polygon_1 =
+      const IconData(0xf146, fontFamily: _fontFam);
+  static const IconData bxs_printer_1 =
+      const IconData(0xf147, fontFamily: _fontFam);
+  static const IconData bxs_purchase_tag_1 =
+      const IconData(0xf148, fontFamily: _fontFam);
+  static const IconData bxs_purchase_tag_alt_1 =
+      const IconData(0xf149, fontFamily: _fontFam);
+  static const IconData bxs_pyramid_1 =
+      const IconData(0xf14a, fontFamily: _fontFam);
+  static const IconData bxs_quote_alt_left_1 =
+      const IconData(0xf14b, fontFamily: _fontFam);
+  static const IconData bxs_quote_alt_right_1 =
+      const IconData(0xf14c, fontFamily: _fontFam);
+  static const IconData bxs_quote_left_1 =
+      const IconData(0xf14d, fontFamily: _fontFam);
+  static const IconData bxs_quote_right_1 =
+      const IconData(0xf14e, fontFamily: _fontFam);
+  static const IconData bxs_quote_single_left_1 =
+      const IconData(0xf14f, fontFamily: _fontFam);
+  static const IconData bxs_quote_single_right_1 =
+      const IconData(0xf150, fontFamily: _fontFam);
+  static const IconData bxs_radiation_1 =
+      const IconData(0xf151, fontFamily: _fontFam);
+  static const IconData bxs_radio_1 =
+      const IconData(0xf152, fontFamily: _fontFam);
+  static const IconData bxs_receipt_1 =
+      const IconData(0xf153, fontFamily: _fontFam);
+  static const IconData bxs_rectangle_1 =
+      const IconData(0xf154, fontFamily: _fontFam);
+  static const IconData bxs_rename_1 =
+      const IconData(0xf155, fontFamily: _fontFam);
+  static const IconData bxs_report_1 =
+      const IconData(0xf156, fontFamily: _fontFam);
+  static const IconData bxs_rewind_circle_1 =
+      const IconData(0xf157, fontFamily: _fontFam);
+  static const IconData bxs_right_arrow_1 =
+      const IconData(0xf158, fontFamily: _fontFam);
+  static const IconData bxs_right_arrow_circle_1 =
+      const IconData(0xf159, fontFamily: _fontFam);
+  static const IconData bxs_right_arrow_square_1 =
+      const IconData(0xf15a, fontFamily: _fontFam);
+  static const IconData bxs_right_down_arrow_circle_1 =
+      const IconData(0xf15b, fontFamily: _fontFam);
+  static const IconData bxs_right_top_arrow_circle_1 =
+      const IconData(0xf15c, fontFamily: _fontFam);
+  static const IconData bxs_rocket_1 =
+      const IconData(0xf15d, fontFamily: _fontFam);
+  static const IconData bxs_ruler_1 =
+      const IconData(0xf15e, fontFamily: _fontFam);
+  static const IconData bxs_sad_1 =
+      const IconData(0xf15f, fontFamily: _fontFam);
+  static const IconData bxs_save_1 =
+      const IconData(0xf160, fontFamily: _fontFam);
+  static const IconData bxs_school_1 =
+      const IconData(0xf161, fontFamily: _fontFam);
+  static const IconData bxs_search_1 =
+      const IconData(0xf162, fontFamily: _fontFam);
+  static const IconData bxs_search_alt_1 =
+      const IconData(0xf163, fontFamily: _fontFam);
+  static const IconData bxs_select_multiple_1 =
+      const IconData(0xf164, fontFamily: _fontFam);
+  static const IconData bxs_send_1 =
+      const IconData(0xf165, fontFamily: _fontFam);
+  static const IconData bxs_server_1 =
+      const IconData(0xf166, fontFamily: _fontFam);
+  static const IconData bxs_shapes_1 =
+      const IconData(0xf167, fontFamily: _fontFam);
+  static const IconData bxs_share_1 =
+      const IconData(0xf168, fontFamily: _fontFam);
+  static const IconData bxs_share_alt_1 =
+      const IconData(0xf169, fontFamily: _fontFam);
+  static const IconData bxs_shield_1 =
+      const IconData(0xf16a, fontFamily: _fontFam);
+  static const IconData bxs_shield_alt_1 =
+      const IconData(0xf16b, fontFamily: _fontFam);
+  static const IconData bxs_ship_1 =
+      const IconData(0xf16c, fontFamily: _fontFam);
+  static const IconData bxs_shocked_1 =
+      const IconData(0xf16d, fontFamily: _fontFam);
+  static const IconData bxs_shopping_bag_1 =
+      const IconData(0xf16e, fontFamily: _fontFam);
+  static const IconData bxs_shopping_bag_alt_1 =
+      const IconData(0xf16f, fontFamily: _fontFam);
+  static const IconData bxs_show_1 =
+      const IconData(0xf170, fontFamily: _fontFam);
+  static const IconData bxs_skip_next_circle_1 =
+      const IconData(0xf171, fontFamily: _fontFam);
+  static const IconData bxs_skip_previous_circle_1 =
+      const IconData(0xf172, fontFamily: _fontFam);
+  static const IconData bxs_skull_1 =
+      const IconData(0xf173, fontFamily: _fontFam);
+  static const IconData bxs_sleepy_1 =
+      const IconData(0xf174, fontFamily: _fontFam);
+  static const IconData bxs_slideshow_1 =
+      const IconData(0xf175, fontFamily: _fontFam);
+  static const IconData bxs_smile_1 =
+      const IconData(0xf176, fontFamily: _fontFam);
+  static const IconData bxs_sort_alt_1 =
+      const IconData(0xf177, fontFamily: _fontFam);
+  static const IconData bxs_spa_1 =
+      const IconData(0xf178, fontFamily: _fontFam);
+  static const IconData bxs_spray_can_1 =
+      const IconData(0xf179, fontFamily: _fontFam);
+  static const IconData bxs_spreadsheet_1 =
+      const IconData(0xf17a, fontFamily: _fontFam);
+  static const IconData bxs_square_1 =
+      const IconData(0xf17b, fontFamily: _fontFam);
+  static const IconData bxs_square_rounded_1 =
+      const IconData(0xf17c, fontFamily: _fontFam);
+  static const IconData bxs_star_1 =
+      const IconData(0xf17d, fontFamily: _fontFam);
+  static const IconData bxs_star_half_1 =
+      const IconData(0xf17e, fontFamily: _fontFam);
+  static const IconData bxs_sticker_1 =
+      const IconData(0xf17f, fontFamily: _fontFam);
+  static const IconData bxs_stopwatch_1 =
+      const IconData(0xf180, fontFamily: _fontFam);
+  static const IconData bxs_store_1 =
+      const IconData(0xf181, fontFamily: _fontFam);
+  static const IconData bxs_store_alt_1 =
+      const IconData(0xf182, fontFamily: _fontFam);
+  static const IconData bxs_sun_1 =
+      const IconData(0xf183, fontFamily: _fontFam);
+  static const IconData bxs_tachometer_1 =
+      const IconData(0xf184, fontFamily: _fontFam);
+  static const IconData bxs_tag_1 =
+      const IconData(0xf185, fontFamily: _fontFam);
+  static const IconData bxs_tag_x_1 =
+      const IconData(0xf186, fontFamily: _fontFam);
+  static const IconData bxs_taxi_1 =
+      const IconData(0xf187, fontFamily: _fontFam);
+  static const IconData bxs_tennis_ball_1 =
+      const IconData(0xf188, fontFamily: _fontFam);
+  static const IconData bxs_terminal_1 =
+      const IconData(0xf189, fontFamily: _fontFam);
+  static const IconData bxs_thermometer_1 =
+      const IconData(0xf18a, fontFamily: _fontFam);
+  static const IconData bxs_time_1 =
+      const IconData(0xf18b, fontFamily: _fontFam);
+  static const IconData bxs_time_five_1 =
+      const IconData(0xf18c, fontFamily: _fontFam);
+  static const IconData bxs_timer_1 =
+      const IconData(0xf18d, fontFamily: _fontFam);
+  static const IconData bxs_tired_1 =
+      const IconData(0xf18e, fontFamily: _fontFam);
+  static const IconData bxs_toggle_left_1 =
+      const IconData(0xf18f, fontFamily: _fontFam);
+  static const IconData bxs_toggle_right_1 =
+      const IconData(0xf190, fontFamily: _fontFam);
+  static const IconData bxs_tone_1 =
+      const IconData(0xf191, fontFamily: _fontFam);
+  static const IconData bxs_torch_1 =
+      const IconData(0xf192, fontFamily: _fontFam);
+  static const IconData bxs_to_top_1 =
+      const IconData(0xf193, fontFamily: _fontFam);
+  static const IconData bxs_traffic_1 =
+      const IconData(0xf194, fontFamily: _fontFam);
+  static const IconData bxs_traffic_barrier_1 =
+      const IconData(0xf195, fontFamily: _fontFam);
+  static const IconData bxs_traffic_cone_1 =
+      const IconData(0xf196, fontFamily: _fontFam);
+  static const IconData bxs_train_1 =
+      const IconData(0xf197, fontFamily: _fontFam);
+  static const IconData bxs_trash_1 =
+      const IconData(0xf198, fontFamily: _fontFam);
+  static const IconData bxs_trash_alt_1 =
+      const IconData(0xf199, fontFamily: _fontFam);
+  static const IconData bxs_tree_1 =
+      const IconData(0xf19a, fontFamily: _fontFam);
+  static const IconData bxs_trophy_1 =
+      const IconData(0xf19b, fontFamily: _fontFam);
+  static const IconData bxs_truck_1 =
+      const IconData(0xf19c, fontFamily: _fontFam);
+  static const IconData bxs_t_shirt_1 =
+      const IconData(0xf19d, fontFamily: _fontFam);
+  static const IconData bxs_up_arrow_1 =
+      const IconData(0xf19e, fontFamily: _fontFam);
+  static const IconData bxs_up_arrow_circle_1 =
+      const IconData(0xf19f, fontFamily: _fontFam);
+  static const IconData bxs_up_arrow_square_1 =
+      const IconData(0xf1a0, fontFamily: _fontFam);
+  static const IconData bxs_upside_down_1 =
+      const IconData(0xf1a1, fontFamily: _fontFam);
+  static const IconData bxs_upvote_1 =
+      const IconData(0xf1a2, fontFamily: _fontFam);
+  static const IconData bxs_user_1 =
+      const IconData(0xf1a3, fontFamily: _fontFam);
+  static const IconData bxs_user_badge_1 =
+      const IconData(0xf1a4, fontFamily: _fontFam);
+  static const IconData bxs_user_check_1 =
+      const IconData(0xf1a5, fontFamily: _fontFam);
+  static const IconData bxs_user_circle_1 =
+      const IconData(0xf1a6, fontFamily: _fontFam);
+  static const IconData bxs_user_detail_1 =
+      const IconData(0xf1a7, fontFamily: _fontFam);
+  static const IconData bxs_user_minus_1 =
+      const IconData(0xf1a8, fontFamily: _fontFam);
+  static const IconData bxs_user_pin_1 =
+      const IconData(0xf1a9, fontFamily: _fontFam);
+  static const IconData bxs_user_plus_1 =
+      const IconData(0xf1aa, fontFamily: _fontFam);
+  static const IconData bxs_user_rectangle_1 =
+      const IconData(0xf1ab, fontFamily: _fontFam);
+  static const IconData bxs_user_voice_1 =
+      const IconData(0xf1ac, fontFamily: _fontFam);
+  static const IconData bxs_user_x_1 =
+      const IconData(0xf1ad, fontFamily: _fontFam);
+  static const IconData bxs_vial_1 =
+      const IconData(0xf1ae, fontFamily: _fontFam);
+  static const IconData bxs_video_1 =
+      const IconData(0xf1af, fontFamily: _fontFam);
+  static const IconData bxs_video_off_1 =
+      const IconData(0xf1b0, fontFamily: _fontFam);
+  static const IconData bxs_video_plus_1 =
+      const IconData(0xf1b1, fontFamily: _fontFam);
+  static const IconData bxs_video_recording_1 =
+      const IconData(0xf1b2, fontFamily: _fontFam);
+  static const IconData bxs_videos_1 =
+      const IconData(0xf1b3, fontFamily: _fontFam);
+  static const IconData bxs_volume_1 =
+      const IconData(0xf1b4, fontFamily: _fontFam);
+  static const IconData bxs_volume_full_1 =
+      const IconData(0xf1b5, fontFamily: _fontFam);
+  static const IconData bxs_volume_low_1 =
+      const IconData(0xf1b6, fontFamily: _fontFam);
+  static const IconData bxs_volume_mute_1 =
+      const IconData(0xf1b7, fontFamily: _fontFam);
+  static const IconData bxs_wallet_1 =
+      const IconData(0xf1b8, fontFamily: _fontFam);
+  static const IconData bxs_wallet_alt_1 =
+      const IconData(0xf1b9, fontFamily: _fontFam);
+  static const IconData bxs_washer_1 =
+      const IconData(0xf1ba, fontFamily: _fontFam);
+  static const IconData bxs_watch_1 =
+      const IconData(0xf1bb, fontFamily: _fontFam);
+  static const IconData bxs_watch_alt_1 =
+      const IconData(0xf1bc, fontFamily: _fontFam);
+  static const IconData bxs_webcam_1 =
+      const IconData(0xf1bd, fontFamily: _fontFam);
+  static const IconData bxs_widget_1 =
+      const IconData(0xf1be, fontFamily: _fontFam);
+  static const IconData bxs_wine_1 =
+      const IconData(0xf1bf, fontFamily: _fontFam);
+  static const IconData bxs_wink_smile_1 =
+      const IconData(0xf1c0, fontFamily: _fontFam);
+  static const IconData bxs_wink_tongue_1 =
+      const IconData(0xf1c1, fontFamily: _fontFam);
+  static const IconData bxs_wrench_1 =
+      const IconData(0xf1c2, fontFamily: _fontFam);
+  static const IconData bxs_x_circle_1 =
+      const IconData(0xf1c3, fontFamily: _fontFam);
+  static const IconData bxs_x_square_1 =
+      const IconData(0xf1c4, fontFamily: _fontFam);
+  static const IconData bxs_yin_yang_1 =
+      const IconData(0xf1c5, fontFamily: _fontFam);
+  static const IconData bxs_zap_1 =
+      const IconData(0xf1c6, fontFamily: _fontFam);
+  static const IconData bxs_zoom_in_1 =
+      const IconData(0xf1c7, fontFamily: _fontFam);
+  static const IconData bxs_zoom_out_1 =
+      const IconData(0xf1c8, fontFamily: _fontFam);
+  static const IconData bxl_500px_1 =
+      const IconData(0xf1c9, fontFamily: _fontFam);
 }
