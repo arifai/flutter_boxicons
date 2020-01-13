@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return IconButton(
         // Use Boxicons class
-        icon: Icon(FlutterBoxicons.bx_message_rounded_dots),
+        icon: Icon(Boxicons.bx_message_rounded_dots),
         onPressed: () {
             print('Congratulations');
         }
