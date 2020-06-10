@@ -1,3 +1,7 @@
+## 2.0.0
+
+* Update BoxIcons v2.0.5
+
 ## 1.1.1
 
 * set fontPackage for IconData

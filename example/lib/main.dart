@@ -43,6 +43,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 Icon(Boxicons.bx_star),
                 Icon(Boxicons.bx_power_off),
                 Icon(Boxicons.bx_printer),
+                Icon(Boxicons.bxl_500px)
               ],
             ),
           ],
