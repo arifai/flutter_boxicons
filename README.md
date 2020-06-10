@@ -1,5 +1,7 @@
 # Flutter Boxicons
 
+![build](https://github.com/arifai/flutter_boxicons/workflows/build/badge.svg) ![Pub Version](https://img.shields.io/pub/v/flutter_boxicons)
+
 [Boxicons](https://boxicons.com) customization for Flutter. You can use 2K+ more Boxicons.
 
 ## Instalation
@@ -34,7 +36,7 @@ class MyApp extends StatelessWidget {
 
 ## Info
 
-Boxicons version: 2.0.4
+Boxicons version: 2.0.5
 
 Thank you very much [Boxicons](https://boxicons.com)
 
