@@ -1,6 +1,6 @@
 name: flutter_boxicons
 description: Boxicons (https://boxicons.com) customization for Flutter. You can use 2K+ more Boxicons.
-version: 2.0.0
+version: 2.0.1
 homepage: https://arifai.github.io
 repository: https://github.com/arifai/flutter_boxicons
 
@@ -24,9 +24,9 @@ flutter:
   # The androidPackage and pluginClass identifiers should not ordinarily
   # be modified. They are used by the tooling to maintain consistency when
   # adding or updating assets for this project.
-  plugin:
-    androidPackage: com.ahmadrifai.flutter_boxicons
-    pluginClass: FlutterBoxiconsPlugin
+  # plugin:
+  #   androidPackage: com.ahmadrifai.flutter_boxicons
+  #   pluginClass: FlutterBoxiconsPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
