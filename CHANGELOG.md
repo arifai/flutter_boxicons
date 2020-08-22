@@ -1,3 +1,7 @@
+## 2.0.1
+
+* Update gradle
+
 ## 2.0.0
 
 * Update BoxIcons v2.0.5
