@@ -14,7 +14,7 @@ flutter_boxicons: <latest_version>
 
 ## Usage
 
-You can use it very easily. For example: 
+You can use it very easily. For example:
 
 ```dart
 import 'package:flutter/material.dart';
@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
 
 ## Info
 
-Boxicons version: 2.0.5
+Boxicons version: 2.0.7
 
 Thank you very much [Boxicons](https://boxicons.com)
 
