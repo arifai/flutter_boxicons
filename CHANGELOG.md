@@ -1,3 +1,8 @@
+## 2.0.2
+
+* Update BoxIcons v2.0.7
+* Convert plugin to package
+
 ## 2.0.1
 
 * Update gradle
