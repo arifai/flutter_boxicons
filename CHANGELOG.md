@@ -1,3 +1,7 @@
+## 3.0.0
+
+* Migrate to null safety
+
 ## 2.0.2
 
 * Update BoxIcons v2.0.7
