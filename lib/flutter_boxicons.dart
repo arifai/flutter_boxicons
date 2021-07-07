@@ -27,7 +27,7 @@ import 'package:flutter/widgets.dart';
 class Boxicons {
   Boxicons._();
 
-  static const _fontFam = 'BoxIcons';
+  static const _fontFam = 'Boxicons';
   static const _fontPackage = 'flutter_boxicons';
 
   static const IconData bxs_basketball =
