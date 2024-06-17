@@ -1,11 +1,15 @@
+## 3.1.0
+
+* Make font name consistent across all files. Thank you [@ssmgcode](https://github.com/ssmgcode)
+
 ## 3.0.0
 
-* Migrate to null safety
+* Migrate to null safety. Thank you [Milvintsiss](https://github.com/Milvintsiss)
 
 ## 2.0.2
 
-* Update BoxIcons v2.0.7
-* Convert plugin to package
+* Update BoxIcons v2.0.7. Thank you [deandreamatias](https://github.com/deandreamatias)
+* Convert plugin to package. Thank you [deandreamatias](https://github.com/deandreamatias)
 
 ## 2.0.1
 
